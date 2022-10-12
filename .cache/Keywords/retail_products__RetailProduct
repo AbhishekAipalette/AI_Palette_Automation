@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "71327561A95A0CC0617E484859C857D8",
+  "keywordClasses": [
+    {
+      "name": "retail_products.RetailProduct",
+      "keywordMethods": [
+        {
+          "name": "RetailProducts",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

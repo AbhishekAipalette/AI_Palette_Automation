@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C2606DDC50B36BC84E5EA2ED8CDB41F0",
+  "keywordClasses": [
+    {
+      "name": "food_service.FoodService",
+      "keywordMethods": [
+        {
+          "name": "FoodServiceProducts",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

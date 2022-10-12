@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test cases for selecting maturity phases emerging, growing and matured of product lens</description>
+   <name>Prod Maturity Phase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3551e27c-0d80-462e-a50a-358ca6de2283</testCaseGuid>
+</TestCaseEntity>

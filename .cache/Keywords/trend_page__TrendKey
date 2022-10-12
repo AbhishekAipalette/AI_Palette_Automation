@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "CA3650723C1B08817810E3B20CC4B7A7",
+  "keywordClasses": [
+    {
+      "name": "trend_page.TrendKey",
+      "keywordMethods": [
+        {
+          "name": "TrendK",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

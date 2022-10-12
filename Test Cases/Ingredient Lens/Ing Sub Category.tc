@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test cases for selecting sub categories of Ing</description>
+   <name>Ing Sub Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a9a0f8e-d7bb-44ce-82c1-aaa00e8a5f92</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test cases for Home Page of Foresight Engine, where user select country and category.</description>
+   <name>Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e54d674-3745-4f18-94db-2907fac5fee6</testCaseGuid>
+   <variable>
+      <defaultValue>'Germany'</defaultValue>
+      <description></description>
+      <id>fb72783e-b27d-4e56-932f-4e55efd85078</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>'Beverage'</defaultValue>
+      <description></description>
+      <id>0465e370-9fb5-4057-9b1e-3f7a22349e4a</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+</TestCaseEntity>

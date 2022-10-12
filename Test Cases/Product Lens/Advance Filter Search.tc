@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test cases for Advance filter search of Product Lens</description>
+   <name>Advance Filter Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95d5738e-918b-460a-9c21-8cf10a737177</testCaseGuid>
+</TestCaseEntity>

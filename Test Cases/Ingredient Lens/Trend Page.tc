@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test cases of trend page to validate Header buttons, Trend Graph, Trend Consumer Insights, Food Service products, Retail Products, Related Trends and Consumer Quotes</description>
+   <name>Trend Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afc8e8bf-ac6a-4658-bb95-b95e55d89f88</testCaseGuid>
+</TestCaseEntity>

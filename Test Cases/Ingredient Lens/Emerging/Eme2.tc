@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test cases for select maturity phase from emerging, growing and matured of Ing lens.</description>
+   <name>Eme2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de489af4-e5c7-40db-b35d-897ac04ff22a</testCaseGuid>
+</TestCaseEntity>

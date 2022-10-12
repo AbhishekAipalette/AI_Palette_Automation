@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Cases for selecting the sub category of product lens</description>
+   <name>Prod Sub Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5bdee10-06ef-4028-af6f-6af4c5c90882</testCaseGuid>
+</TestCaseEntity>
