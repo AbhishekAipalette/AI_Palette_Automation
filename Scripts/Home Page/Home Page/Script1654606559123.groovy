@@ -38,6 +38,7 @@ WebUI.delay(2)
 
 'Sending down key'
 WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), Keys.chord(Keys.DOWN))
+
 WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), Keys.chord(Keys.DOWN))
 
 'Sending enter key to select the category from dropdown'
