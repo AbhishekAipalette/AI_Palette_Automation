@@ -45,6 +45,7 @@ WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/T
 
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/Th4_Trend Growth'), 'Trend Growth')
 
+WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_4 year CAGR'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_Predicted Growth'), 0)
