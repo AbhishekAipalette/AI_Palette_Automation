@@ -21,6 +21,8 @@ WebUI.click(findTestObject('Ingrdient Lens/Ing Sub Category/Page_AI Palette/Page
 
 WebUI.click(findTestObject('Ingrdient Lens/Ing Sub Category/Page_AI Palette/span_Fruit, Nut and Grain Bars'))
 
+WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
+
 WebUI.click(findTestObject('Ingrdient Lens/Ing Sub Category/Page_AI Palette/button_Apply'))
 
 WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)

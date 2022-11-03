@@ -6,12 +6,11 @@
    <elementGuidId>9d29daf1-89a8-4d47-9841-390e0eeb1163</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/div/div/div/ul/div[2]/div/div/div/div[2]/div/div[8]/label/span[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/ul/div[2]/div/div/div/div[2]/div/div[4]/label/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>8009e6c5-1fa5-4761-9a69-4b3d689cad15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-1w2zoug</value>
+      <webElementGuid>eecec0fa-181d-4bcf-899d-0c472455b034</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Acai</value>
+      <webElementGuid>62e45938-0ac6-4a3c-a524-82e806cfe805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-1h77wgb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item css-1wxaqej&quot;]/div[@class=&quot;MuiBox-root css-1jkv007&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-1vbbfnt&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;MuiBox-root css-9uoz06&quot;]/div[2]/div[1]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1tn2dsj&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-1w2zoug&quot;]</value>
+      <webElementGuid>fa564132-ffd2-41c7-8cae-10c3c5650ead</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div/div/ul/div[2]/div/div/div/div[2]/div/div[8]/label/span[2]</value>
+      <webElementGuid>306813f2-6c36-478f-ab0b-e6361b788fea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Acacia'])[1]/following::span[2]</value>
+      <webElementGuid>9f246c6d-3b12-4eb8-9458-f47f86634469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aburi Scallop'])[1]/following::span[4]</value>
+      <webElementGuid>37afd1c9-486b-4e77-83cf-335f5a5cb2fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Acai Berry'])[1]/preceding::span[2]</value>
+      <webElementGuid>14e14a7d-ed8f-4c91-9c1b-3ab04590d611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Acai Bowl'])[1]/preceding::span[4]</value>
+      <webElementGuid>82217665-21ec-487c-a7ca-72dbe4fed1a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Acai']/parent::*</value>
+      <webElementGuid>0673144a-6219-48c7-8716-6fc79a2f2be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/label/span[2]</value>
+      <webElementGuid>4901fb7f-7aed-44ed-9ac2-eef34e0aa7a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,5 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Acai' or . = 'Acai')]</value>
+      <webElementGuid>b2b8de29-85fb-4f57-b796-cf11f1f083a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

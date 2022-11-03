@@ -52,7 +52,9 @@ WebUI.verifyElementText(findTestObject('Trend Page/Header buttons/Page_AI Palett
 
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/h3_Trend Growth'), 'Trend Growth')
 
-'To chek CAGR is present or not'
+'To check CAGR is present or not'
+
+WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_4 year CAGR'), 0)
 
 'To check prediction is present or not'
@@ -97,6 +99,8 @@ WebUI.verifyElementText(findTestObject('Trend Page/FS and Retail Products/Food S
 WebUI.back()*/
 /*CustomKeywords.'food_service.FoodService.FoodServiceProducts'()
 CustomKeywords.'retail_products.RetailProduct.RetailProducts'()*/
+WebUI.executeJavaScript('window.scrollTo(0, 500)', null)
+
 'To check that if Food Service Product is available or not.'
 if (WebUI.verifyTextPresent('Food Service Products', true)) {
     WebUI.click(findTestObject('Trend Page/FS and Retail Products/Food Service/Page_AI Palette/div_English'))
@@ -184,9 +188,11 @@ WebUI.verifyElementText(findTestObject('Trend Page/FS and Retail Products/Retail
 WebUI.back()*/
 /*WebUI.scrollToElement(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/Related Theme block'), 20)
 */
+/*WebUI.executeJavaScript('window.scrollTo(6000, 50)', null)*/
+'To check if Related Trend is available or not.'
+
 WebUI.executeJavaScript('window.scrollTo(6000, 50)', null)
 
-'To check if Related Trend is available or not.'
 WebUI.verifyElementText(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/h3_Related Themes'), 'Related Themes')
 
 WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/div_Rank'))
@@ -197,11 +203,15 @@ WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Pale
 
 WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/li_Rank'))
 
+
+
 WebUI.scrollToElement(findTestObject('Trend Page/Trend Page Consumer Quotes/Page_AI Palette/Consumer Quotes Block'), 20)
 
 /*WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/button_Download'))
 */
 WebUI.executeJavaScript('window.scrollTo(8000, 80)', null)
+
+WebUI.executeJavaScript('window.scrollTo(0, 2200)', null)
 
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Page Consumer Quotes/Page_AI Palette/h3_Verbatims'), 'Verbatims')
 

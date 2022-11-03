@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/div/div/div/ul/div[2]/div/div/div/div[2]/div/div[4]/label/span[2]</value>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/ul/div[2]/div/div/div/div[2]/div/div[2]/label/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>a06ee586-340e-46e4-b849-cbc95a433047</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-1w2zoug</value>
+      <webElementGuid>093a6abd-ece8-42f2-8fae-d44e44c07b0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Aburi Salmon</value>
+      <webElementGuid>db0efd92-33c2-4e0a-98af-de79c9711323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-1h77wgb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item css-1wxaqej&quot;]/div[@class=&quot;MuiBox-root css-1jkv007&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-1vbbfnt&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;MuiBox-root css-9uoz06&quot;]/div[2]/div[1]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1tn2dsj&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-1w2zoug&quot;]</value>
+      <webElementGuid>b4124d5e-fe0b-4abf-8d13-9a5697fb4733</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div/div/ul/div[2]/div/div/div/div[2]/div/div[4]/label/span[2]</value>
+      <webElementGuid>3bad1dd6-aba5-4004-8db6-dc4355e31305</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Abalone'])[1]/following::span[2]</value>
+      <webElementGuid>068317e6-9817-47aa-b20d-30251d9002ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::span[8]</value>
+      <webElementGuid>4958893a-1c10-402f-8b5b-430cb501e096</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aburi Salmon Rol...'])[1]/preceding::span[2]</value>
+      <webElementGuid>45e1d1d2-d1ea-4031-8f2b-53d2b6ca214e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aburi Scallop'])[1]/preceding::span[4]</value>
+      <webElementGuid>e80969ea-0ef9-49c6-91db-c6b8b58c83a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aburi Salmon']/parent::*</value>
+      <webElementGuid>6f8629a5-2dac-4188-81df-b2b09f07237a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/label/span[2]</value>
+      <webElementGuid>c3eeb7e0-ed92-44b7-9b4a-aab293ddc1d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,5 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Aburi Salmon' or . = 'Aburi Salmon')]</value>
+      <webElementGuid>6aedce5a-cd1c-48d9-b8f2-1a7551e68503</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

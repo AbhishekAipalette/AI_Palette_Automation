@@ -25,8 +25,6 @@ WebUI.click(findTestObject('Product Lens/Advance Filter Search/Page_AI Palette/p
 
 WebUI.click(findTestObject('Product Lens/Advance Filter Search/Page_AI Palette/p2'))
 
-WebUI.click(findTestObject('Product Lens/Advance Filter Search/Page_AI Palette/p3'))
-
 WebUI.click(findTestObject('Product Lens/Advance Filter Search/Page_AI Palette/button_Apply'))
 
 WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)

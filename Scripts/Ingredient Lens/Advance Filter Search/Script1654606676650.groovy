@@ -19,17 +19,20 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.verifyElementText(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/h4_Product Category'), 'Product Category')
 
+WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)
+
 WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/span_Abalone'))
 
-WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/span_30 Minute Meals'))
+WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/span_Acai'))
 
-WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/span_Select all'))
+/*WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/span_Select all'))*/
 
 WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/button_Apply'))
 
 WebUI.waitForPageLoad(10)
 
-WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)
+/*WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)*/
+WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
 
 /*WebUI.scrollToElement(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/button_Download chart'), 2)
 
@@ -37,6 +40,8 @@ WebUI.scrollToElement(findTestObject('Ingrdient Lens/Advance Filter Search/Page_
 /*WebUI.verifyElementText(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/span_Filters'), 'Filters')
 */
 WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/button_Download chart'))
+
+WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)
 
 WebUI.click(findTestObject('Ingrdient Lens/Advance Filter Search/Page_AI Palette/button_Reset All Filters'))
 

@@ -17,8 +17,11 @@ import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
 
 /*WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.CONTINUE_ON_FAILURE)*/
+
 'To check the heading of the page'
 WebUI.verifyElementText(findTestObject('Home Page/Page_AI Palette/h2_Explore Trends'), 'Explore Trends')
+
+WebUI.executeJavaScript('window.scrollTo(0, 100)', null)
 
 'To select the country from dropdown'
 WebUI.setText(findTestObject('Home Page/Page_AI Palette/input_Country_country-select'), country)
@@ -31,6 +34,8 @@ WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Country_country-s
 
 WebUI.delay(2)
 
+WebUI.executeJavaScript('window.scrollTo(0, 100)', null)
+
 'To select the category from dropdown'
 WebUI.setText(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), category)
 
@@ -39,12 +44,13 @@ WebUI.delay(2)
 'Sending down key'
 WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), Keys.chord(Keys.DOWN))
 
-WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), Keys.chord(Keys.DOWN))
-
+/*WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), Keys.chord(Keys.DOWN))*/
 'Sending enter key to select the category from dropdown'
 WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), Keys.chord(Keys.ENTER))
 
 WebUI.verifyElementText(findTestObject('Home Page/Page_AI Palette/h3_Category Preview'), 'Category Preview')
+
+WebUI.executeJavaScript('window.scrollTo(0, 300)', null)
 
 WebUI.verifyElementText(findTestObject('Home Page/Page_AI Palette/h6_Trend Maturity Phase'), 'Trend Maturity Phase')
 
