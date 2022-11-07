@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and @id = 'simple-tab-2' and (text() = 'Themes' or . = 'Themes')]</value>
+         <value>//div[2]/div/div/div/button[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>7b85045b-39b9-4cf3-a674-b5185245615f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary css-imoo</value>
+      <webElementGuid>1a61c90f-835b-4d78-b654-8f164f4748f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
+      <webElementGuid>b79ca228-dbd1-4f40-b23a-4422709ba254</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>3ffe5738-fe38-421f-8e65-06d9186e2f8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
+      <webElementGuid>c904539f-0985-4a66-b368-c197fcff9d2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>03c551c7-4c7b-4d4a-8265-c80c2c83be3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>simple-tab-2</value>
+      <webElementGuid>3000a00a-f0c7-46e1-b595-1dd2faa13ea1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>simple-tabpanel-2</value>
+      <webElementGuid>78a39894-4c02-4a75-973c-6a1ec5c1bddc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,6 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Themes</value>
+      <webElementGuid>3889eb1c-a9aa-4d7a-8383-7e629b926411</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;simple-tab-2&quot;)</value>
+      <webElementGuid>4f5d9b72-32b7-45ce-ad9a-a850ca0c6974</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='simple-tab-2']</value>
+      <webElementGuid>e57ede68-7f06-4498-8895-02ea5c70c18f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div[2]/div/div/div/button[3]</value>
+      <webElementGuid>08af9205-9ae0-41d9-b6af-88332e28583c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::button[1]</value>
+      <webElementGuid>13620bec-b3de-410d-856b-cf5ae45ca8af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients'])[1]/following::button[2]</value>
+      <webElementGuid>8210dd4f-4639-4c17-b9a4-94075bb3be9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trends distribution by Phase of Maturity and Volume of Engagement'])[1]/preceding::button[1]</value>
+      <webElementGuid>e58bea4e-a3f2-4972-9d2d-a58424e5537a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trend Maturity Phase'])[1]/preceding::button[1]</value>
+      <webElementGuid>bea04ae5-f230-43d3-ac57-bc0ee46c6d71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Themes']/parent::*</value>
+      <webElementGuid>48a94d1a-d661-406b-9a14-251e247962bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/button[3]</value>
+      <webElementGuid>6289cac1-feb2-479f-ac13-900581068afb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,5 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'simple-tab-2' and (text() = 'Themes' or . = 'Themes')]</value>
+      <webElementGuid>c117c57e-8a13-4553-8dc6-a3a40652dc5e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

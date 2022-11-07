@@ -21,7 +21,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Ingrdient Lens/Ing Maturity Phase/Page_AI Palette/span_Emerging'))
 */
-
+WebUI.executeJavaScript('window.scrollTo(0, 50)', null)
 WebUI.click(findTestObject('Theme Lens/Theme Maturity Phase/Page_AI Palette/Page_AI Palette/button_Themes'))
 
 WebUI.click(findTestObject('Theme Lens/Theme Maturity Phase/Page_AI Palette/span_Growing'))

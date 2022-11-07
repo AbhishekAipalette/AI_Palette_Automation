@@ -21,7 +21,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Ingrdient Lens/Ing Maturity Phase/Page_AI Palette/span_Matured'))
 */
-
+WebUI.executeJavaScript('window.scrollTo(0, 50)', null)
 WebUI.click(findTestObject('Ingrdient Lens/Ing Maturity Phase/Page_AI Palette/button_Ingredients'))
 WebUI.click(findTestObject('Ingrdient Lens/Ing Maturity Phase/Page_AI Palette/span_Matured'))
 WebUI.click(findTestObject('Ingrdient Lens/Ing Maturity Phase/Page_AI Palette/Mat(img3)'))

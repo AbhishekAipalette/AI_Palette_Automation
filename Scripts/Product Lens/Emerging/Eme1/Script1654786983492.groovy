@@ -16,7 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+WebUI.executeJavaScript('window.scrollTo(0, 50)', null)
 WebUI.click(findTestObject('Product Lens/Prod Maturity Phase/Page_AI Palette/button_List'))
 
 WebUI.click(findTestObject('Product Lens/Prod Maturity Phase/Page_AI Palette/button_Products'))

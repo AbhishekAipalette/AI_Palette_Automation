@@ -17,6 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)
+
+
+
 WebUI.click(findTestObject('Theme Lens/Theme Maturity Phase/Page_AI Palette/Page_AI Palette/button_List View'))
 
 WebUI.click(findTestObject('Theme Lens/Theme Maturity Phase/Page_AI Palette/Page_AI Palette/button_Themes'))

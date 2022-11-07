@@ -20,6 +20,9 @@ import org.openqa.selenium.Keys as Keys
 Dashboard = WebUI.getText(findTestObject('Trend Page/Header buttons/Page_AI Palette/Dashboard Name'))
 println(Dashboard)
 
+WebUI.executeJavaScript('window.scrollTo(0, 50)', null)
+
+
 WebUI.click(findTestObject('Ingrdient Lens/Ing Maturity Phase/Page_AI Palette/button_List'))
 
 WebUI.click(findTestObject('Ingrdient Lens/Ing Maturity Phase/Page_AI Palette/button_Ingredients'))

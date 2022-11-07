@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@id='simple-tab-0'])[2]</value>
+         <value>//button[@type = 'button' and @id = 'simple-tab-0' and (text() = 'Ingredients' or . = 'Ingredients')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>600840ce-c605-4b17-b5b8-4cae2bc17c8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary Mui-selected css-imoo</value>
+      <webElementGuid>fceaaa44-4117-4def-996f-90c7822d8278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
+      <webElementGuid>deb95bd3-046e-4783-a22b-817b5d75e9eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>8f89857c-88db-4380-923d-3a59a3a8321d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
+      <webElementGuid>2f5b57db-4664-4092-9c7c-89bf440a1977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>b78b7e1c-97d4-47d4-87c3-37fda6ec8942</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>simple-tab-0</value>
+      <webElementGuid>4d35f647-f851-460e-90cb-17c499cf9946</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>simple-tabpanel-0</value>
+      <webElementGuid>8927d6bc-af4b-4b4d-b060-664bffd79b27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,6 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ingredients</value>
+      <webElementGuid>62647194-1a92-49e4-ba04-eac2761ee11f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-1h77wgb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 css-efwuvd&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-18vyuyp&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiTabs-root css-z1fbya&quot;]/div[@class=&quot;MuiTabs-scroller MuiTabs-fixed css-18jpbi7&quot;]/div[@class=&quot;MuiTabs-flexContainer css-7sga7m&quot;]/button[@id=&quot;simple-tab-0&quot;]</value>
+      <webElementGuid>76d22c7e-25a5-45f3-b6a4-743c6723ef1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@id='simple-tab-0'])[2]</value>
+      <webElementGuid>c3b6e6a7-89bd-443d-b477-6db85e9a3293</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[2]/div/div[3]/div[2]/div/div/div/button</value>
+      <webElementGuid>db5f98f4-6c60-4750-8160-61176552a3a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Category'])[1]/following::button[1]</value>
+      <webElementGuid>2a5a5dc9-1b97-4e04-ab37-00c5d2e2647a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Top level information of the category. Click on the “Explore Category” to view more'])[1]/following::button[1]</value>
+      <webElementGuid>be4bd153-729a-4cef-832c-dfff70396740</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::button[1]</value>
+      <webElementGuid>b70ed59e-ed9f-4357-bcc8-d0467ae0ccda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Themes'])[1]/preceding::button[2]</value>
+      <webElementGuid>6841f8b5-638f-4ad6-a154-09fc4ea764e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ingredients']/parent::*</value>
+      <webElementGuid>d95cde95-69c5-42de-a9d3-3d89080ef6fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/button</value>
+      <webElementGuid>158b4d2c-a0d7-4b9d-a3f4-d6a88451ba54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,5 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'simple-tab-0' and (text() = 'Ingredients' or . = 'Ingredients')]</value>
+      <webElementGuid>be17cc73-2b64-4e54-a991-9fde5842020b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
