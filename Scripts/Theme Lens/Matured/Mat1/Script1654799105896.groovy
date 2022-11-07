@@ -23,6 +23,7 @@ WebUI.click(findTestObject('Product Lens/Prod Maturity Phase/Page_AI Palette/but
 
 WebUI.click(findTestObject('Theme Lens/Theme Maturity Phase/Page_AI Palette/Page_AI Palette/button_Themes'))
 
+WebUI.executeJavaScript('window.scrollTo(document.body.scrollHeight, 0)', null)
 WebUI.click(findTestObject('Theme Lens/Theme Maturity Phase/Page_AI Palette/span_Matured'))
 
 WebUI.click(findTestObject('Theme Lens/Theme Maturity Phase/Page_AI Palette/Mat(img1)'))

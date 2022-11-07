@@ -4,7 +4,7 @@
    <name>Product_Test_Suite_Collection</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
-   <executionMode>PARALLEL</executionMode>
+   <executionMode>SEQUENTIAL</executionMode>
    <maxConcurrentInstances>8</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
@@ -14,7 +14,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>false</runEnabled>
+         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Product Suites/Product Eme</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>

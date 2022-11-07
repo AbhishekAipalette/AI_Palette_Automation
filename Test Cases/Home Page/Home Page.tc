@@ -25,7 +25,7 @@
       <name>country</name>
    </variable>
    <variable>
-      <defaultValue>'Confectionery'</defaultValue>
+      <defaultValue>'Dairy'</defaultValue>
       <description></description>
       <id>0465e370-9fb5-4057-9b1e-3f7a22349e4a</id>
       <masked>false</masked>

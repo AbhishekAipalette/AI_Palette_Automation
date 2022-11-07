@@ -21,6 +21,7 @@ WebUI.executeJavaScript('window.scrollTo(0, 50)', null)
 WebUI.click(findTestObject('Product Lens/Prod Maturity Phase/Page_AI Palette/button_List'))
 
 WebUI.click(findTestObject('Product Lens/Prod Maturity Phase/Page_AI Palette/button_Products'))
+WebUI.executeJavaScript('window.scrollTo(0, 50)', null)
 
 WebUI.click(findTestObject('Product Lens/Prod Maturity Phase/Page_AI Palette/span_Matured'))
 
