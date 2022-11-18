@@ -34,6 +34,8 @@ WebUI.switchToDefaultContent()
 
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Cancel'))*/
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
+WebUI.waitForPageLoad(5)
+WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
 
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Copy  Link to Clipboard'))
 

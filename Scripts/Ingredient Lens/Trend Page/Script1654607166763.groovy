@@ -36,6 +36,8 @@ WebUI.switchToDefaultContent()*/
 'To click on bookmark button'
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
 
+WebUI.waitForPageLoad(5)
+WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
 'To click on copy link to clipboard'
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Copy  Link to Clipboard'))
 
