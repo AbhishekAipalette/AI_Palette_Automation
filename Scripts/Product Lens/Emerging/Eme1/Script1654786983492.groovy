@@ -216,7 +216,7 @@ WebUI.click(findTestObject('Overall CN SCN/CN/Page_AI Palette/Overall CN'))
 
 WebUI.switchToWindowIndex('7')
 
-WebUI.verifyElementText(findTestObject('Overall CN SCN/CN/Page_AI Palette/h4_Consumer Insight'), 'Consumer Insight')
+/*WebUI.verifyElementText(findTestObject('Overall CN SCN/CN/Page_AI Palette/h4_Consumer Insight'), 'Consumer Insight')*/
 
 WebUI.verifyElementText(findTestObject('Overall CN SCN/CN/Page_AI Palette/h3_Volume'), 'Volume')
 
@@ -248,7 +248,7 @@ WebUI.verifyElementText(findTestObject('Overall CN SCN/CN/Page_AI Palette/h3_Top
 
 WebUI.click(findTestObject('Overall CN SCN/SCN/Page_AI Palette/Overall SCN'))
 
-WebUI.verifyElementText(findTestObject('Overall CN SCN/SCN/Page_AI Palette/h4_Consumer Insight'), 'Consumer Insight')
+/*WebUI.verifyElementText(findTestObject('Overall CN SCN/SCN/Page_AI Palette/h4_Consumer Insight'), 'Consumer Insight')*/
 
 WebUI.verifyElementText(findTestObject('Overall CN SCN/SCN/Page_AI Palette/h3_Trend Growth'), 'Trend Growth')
 
