@@ -4,7 +4,7 @@
    <name>Ingredient_Test_Suite_Collection</name>
    <tag></tag>
    <delayBetweenInstances>15</delayBetweenInstances>
-   <executionMode>PARALLEL</executionMode>
+   <executionMode>SEQUENTIAL</executionMode>
    <maxConcurrentInstances>8</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>

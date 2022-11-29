@@ -36,8 +36,7 @@ WebUI.click(findTestObject('Overall CN SCN/OverAll CN SCN/Page_AI Palette/li_YoY
 WebUI.click(findTestObject('Overall CN SCN/OverAll CN SCN/Page_AI Palette/div_YoY'))
 
 /*
-WebUI.takeElementScreenshotAsCheckpoint('AfterCN', findTestObject('Overall CN SCN/OverAll CN SCN/Page_AI Palette/Before CN'))
-*/
+WebUI.takeElementScreenshotAsCheckpoint('AfterCN', findTestObject('Overall CN SCN/OverAll CN SCN/Page_AI Palette/Before CN'))*/
 WebUI.click(findTestObject('Overall CN SCN/OverAll CN SCN/Page_AI Palette/li_Volume'))
 
 WebUI.click(findTestObject('Overall CN SCN/OverAll CN SCN/Page_AI Palette/Expressed Persona'))

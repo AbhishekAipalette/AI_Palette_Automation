@@ -49,20 +49,20 @@ WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/T
 
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/Th4_Trend Growth'), 'Trend Growth')
 
-WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
+WebUI.executeJavaScript('window.scrollTo(0, 150)', null)
 
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_4 year CAGR'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_Predicted Growth'), 0)
 
 /*WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/button_Download'))*/
-WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Market Trend'))
+WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/Page_AI Palette/div_Market Trend'))
 
-WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Web Search Data'))
+WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/Page_AI Palette/li_Web Search Data'))
 
-WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Web Search Data'))
+WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/Page_AI Palette/div_Web Search Data'))
 
-WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Market Trend'))
+WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/Page_AI Palette/li_Market Trend'))
 
 WebUI.executeJavaScript('window.scrollTo(4000, 35)', null)
 
