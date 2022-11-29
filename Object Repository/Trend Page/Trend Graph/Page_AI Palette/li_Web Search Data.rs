@@ -6,12 +6,11 @@
    <elementGuidId>57963a90-8510-4829-a487-a507288dc0dd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='menu-']/div[3]/ul/li[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@class = &quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1wrntgx&quot;]//*[text()=&quot;Web Search Data&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
+      <webElementGuid>afdde5a6-265b-4203-b7c7-88cfda06bbd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-1hv3ocg</value>
+      <webElementGuid>c8efa1bb-b94e-4c89-9076-b812b7676682</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
+      <webElementGuid>93caa88a-57e2-4f24-aa2e-dc678dc68348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
+      <webElementGuid>7191bf88-8428-4e6c-b494-f44820e31930</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +53,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>8593bdf5-1465-4b79-a799-013b4af0a806</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +61,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>Web Search Data</value>
+      <webElementGuid>29fd2e29-656d-4a84-8552-a2c0dff3369c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,6 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Web Search Data</value>
+      <webElementGuid>37656e36-a8a5-4acf-87e0-d906f047b97a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,6 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1wrntgx&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-1hv3ocg&quot;]</value>
+      <webElementGuid>9ddec4c4-791a-41c5-88bf-b51a57595804</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,6 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu-']/div[3]/ul/li[3]</value>
+      <webElementGuid>7306636a-4ded-4a20-8ef0-10a95f77ee3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Data'])[1]/following::li[1]</value>
+      <webElementGuid>29b18fe6-7780-4c4e-a59a-841d373c0355</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Trend'])[2]/following::li[2]</value>
+      <webElementGuid>08a7e383-68af-4ec7-bddf-24d4688e88b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Web Search Data']/parent::*</value>
+      <webElementGuid>7684e779-a0ba-4d6b-948f-fcaae8a72ae7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul/li[3]</value>
+      <webElementGuid>33f737d1-cc27-4e24-ba72-105eae74e4c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,5 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Web Search Data' or . = 'Web Search Data')]</value>
+      <webElementGuid>b8e75375-5849-403c-b29a-d82769a38120</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>d192a794-e866-480b-9302-8a91378d75b5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='_dowSectionChart']/div/div/div/div/div/div[2]/div/div[2]/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.MuiSelect-select.MuiSelect-outlined.MuiOutlinedInput-input.MuiInputBase-input.css-1v0yasm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = &quot;MuiFormControl-root css-1gzrprm&quot;]//*[text() = &quot;Market Trend&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>a8d0a070-74a8-4cdf-b493-02c821e1b4ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
+      <webElementGuid>ab5b7031-2142-4392-9382-122e528d2157</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>a95be589-ee70-4302-9651-8c3729f86a77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>83a1ad70-3b37-424f-9837-0867358b481f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
+      <webElementGuid>b82b6836-ba00-428a-8ddf-a5d321405fb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-1v0yasm</value>
+      <webElementGuid>a452e910-1e3e-44e8-8ea3-a0e1a3db6235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Market Trend</value>
+      <webElementGuid>32ee45cd-9e7e-43d1-91f7-da7212485b05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_dowSectionChart&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1sxrf4w&quot;]/div[@class=&quot;MuiBox-root css-19midj6&quot;]/div[@class=&quot;monthly_trends&quot;]/div[@class=&quot;monthly_trends__body&quot;]/div[@class=&quot;monthly_trends__header&quot;]/div[@class=&quot;monthly_trends__header_right&quot;]/div[@class=&quot;monthly_trends__tools&quot;]/div[@class=&quot;MuiFormControl-root css-13sljp9&quot;]/div[@class=&quot;MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-focused MuiInputBase-formControl  css-1jijp1a&quot;]/div[@class=&quot;MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-1v0yasm&quot;]</value>
+      <webElementGuid>a8d545f9-7b0c-4cc6-9bb1-c2d7c8f2d4e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_dowSectionChart']/div/div/div/div/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>fea3eee0-a08f-4f0d-81a7-9af642a61163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::div[3]</value>
+      <webElementGuid>334075d4-bacf-4783-86db-01dc35dc315a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/preceding::div[1]</value>
+      <webElementGuid>0fc256c4-9a05-4b30-b521-90e727935224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[2]/preceding::div[1]</value>
+      <webElementGuid>f04ae3a6-6bf0-4911-b53f-c5352e524478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Market Trend']/parent::*</value>
+      <webElementGuid>d1a3df3a-6883-4ec9-bb4e-81ada5c7113c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>bf82f65b-3071-453b-bb60-41f33a9da8c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,5 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Market Trend' or . = 'Market Trend')]</value>
+      <webElementGuid>b8954ed7-5e7a-40e4-acb1-bd941759dd67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

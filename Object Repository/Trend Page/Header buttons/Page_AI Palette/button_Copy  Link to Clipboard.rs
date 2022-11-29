@@ -6,12 +6,12 @@
    <elementGuidId>417b6096-b8d1-4a2b-aa36-327305fe1dbd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Copy Link to Clipboard' or . = 'Copy Link to Clipboard')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeSmall.MuiButton-outlinedSizeSmall.MuiButtonBase-root.css-9ud696</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[text()= &quot;Copy Link to Clipboard&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>29e09f3f-6a11-430b-95f5-2a314d0d6981</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButtonBase-root  css-9ud696</value>
+      <webElementGuid>80df55c0-233b-4027-a88f-f039cb671924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
+      <webElementGuid>9fa9ba65-8a3a-4326-9bf2-03e3fdf58f38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>57e69d21-17fe-481e-b69b-4a13ff3127f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Copy  Link to Clipboard</value>
+      <webElementGuid>7981bb9c-8e00-4e4f-9608-58975ca85a57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_dowSectionDesc&quot;)/div[@class=&quot;css-ovnx7g&quot;]/div[@class=&quot;MuiBox-root css-19q78b0&quot;]/div[@class=&quot;MuiBox-root css-557sfh&quot;]/div[@class=&quot;MuiBox-root css-1i27l4i&quot;]/button[@class=&quot;MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButtonBase-root  css-9ud696&quot;]</value>
+      <webElementGuid>5dce42bc-e5c0-49c9-b3ed-09e8bae7c7c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>d7be2ea2-ac7f-4536-9a51-d90fe4aba6fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_dowSectionDesc']/div/div/div/div/button[2]</value>
+      <webElementGuid>1ff628f8-1a1c-4dd2-8fc3-b80509ed4e4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bookmark'])[1]/following::button[1]</value>
+      <webElementGuid>1c55d613-2b47-4c13-9acd-9319f49ea97d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredient Details'])[1]/following::button[2]</value>
+      <webElementGuid>655274d2-1854-4862-b1a5-fd4472f54de4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::button[1]</value>
+      <webElementGuid>28b216f1-2173-43c8-8493-5cb5511ed541</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Compare'])[1]/preceding::button[2]</value>
+      <webElementGuid>76cfb281-4430-43b6-b428-2fa015d5b685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Copy']/parent::*</value>
+      <webElementGuid>3a55e077-2190-4074-b6a3-35a2fd3919bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/button[2]</value>
+      <webElementGuid>00862676-1195-4c1c-aec0-e1a2f76449ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,5 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Copy  Link to Clipboard' or . = ' Copy  Link to Clipboard')]</value>
+      <webElementGuid>25dd86ff-ebf4-4084-b5d4-14b12e438ac1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,16 +7,26 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://aipalette-staging-new.netlify.app/'</initValue>
-      <name>url</name>
+      <name>Url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'qa-admin@aipalette.com'</initValue>
+      <initValue>'qa_admin@aipalette.com'</initValue>
       <name>username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'qa-admin-1234'</initValue>
       <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Australia'</initValue>
+      <name>country</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dairy'</initValue>
+      <name>category</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

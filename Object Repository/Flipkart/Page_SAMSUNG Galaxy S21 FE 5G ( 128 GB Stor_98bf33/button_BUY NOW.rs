@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Add to Compare</name>
+   <name>button_BUY NOW</name>
    <tag></tag>
-   <elementGuidId>559a8a47-252b-40d4-9235-9bf82f6b14dd</elementGuidId>
+   <elementGuidId>9ebdba76-cfe2-4ca8-a2b4-5766a4a71a19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>button._2KpZ6l._2U9uOA.ihZ75k._3AWRsL</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[text()= &quot;Add to Compare&quot;]</value>
+         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,23 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>80412242-7972-4fb8-ac88-488d7aa169ca</webElementGuid>
+      <webElementGuid>b05de7fa-4e75-4ad0-950b-d9346f0266ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButtonBase-root  css-9ud696</value>
-      <webElementGuid>6820ceaf-c458-42bd-a414-94f8a2ea4c5c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>cc4c840a-be31-44ad-bb06-4702b21c3c8b</webElementGuid>
+      <value>_2KpZ6l _2U9uOA ihZ75k _3AWRsL</value>
+      <webElementGuid>becbe1b7-61cb-4815-9021-14e50366fa01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,86 +38,86 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c60b8413-59d8-4392-b118-b534e4ebfc49</webElementGuid>
+      <webElementGuid>0e900562-c853-4a31-964e-37a873eeea4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Add to Compare</value>
-      <webElementGuid>d1ffaef3-ee90-47d7-b684-65926d6a6aaf</webElementGuid>
+      <value> BUY NOW</value>
+      <webElementGuid>40457488-7a35-45b2-afbd-10836a434ce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_dowSectionDesc&quot;)/div[@class=&quot;css-ovnx7g&quot;]/div[@class=&quot;MuiBox-root css-19q78b0&quot;]/div[@class=&quot;MuiBox-root css-557sfh&quot;]/div[@class=&quot;MuiBox-root css-1i27l4i&quot;]/button[@class=&quot;MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButtonBase-root  css-9ud696&quot;]</value>
-      <webElementGuid>5d32f9b7-7008-4bd6-8f6e-7f46152bfd74</webElementGuid>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_2c7YLP UtUXW0 _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-5-12 _78xt5Y&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_1p3MFP dTTu2M&quot;]/ul[@class=&quot;row&quot;]/li[@class=&quot;col col-6-12&quot;]/form[1]/button[@class=&quot;_2KpZ6l _2U9uOA ihZ75k _3AWRsL&quot;]</value>
+      <webElementGuid>cfe466ff-7510-4abb-a84f-c6a4ba69bdd3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[10]</value>
-      <webElementGuid>6cbd0441-5072-4619-b017-f9ad94633af4</webElementGuid>
+      <value>//button[@type='button']</value>
+      <webElementGuid>47d81e01-9645-4aa1-9564-a106246d41f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='_dowSectionDesc']/div/div/div/div/button[4]</value>
-      <webElementGuid>4d355e89-d4a4-4476-b3dc-e83d592b8e83</webElementGuid>
+      <value>//div[@id='container']/div/div[3]/div/div/div[2]/div/ul/li[2]/form/button</value>
+      <webElementGuid>7bcadcaf-c8c5-4f81-bcbf-7dda2a27de74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::button[1]</value>
-      <webElementGuid>758d9d00-69c4-4abe-b807-e363d6b791f9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer Zone'])[1]/following::button[2]</value>
+      <webElementGuid>efe793eb-bccc-4da5-bb88-05dd598f2388</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prawn'])[2]/preceding::button[1]</value>
-      <webElementGuid>8d018755-6a78-4707-89b7-0cb7e093a60a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
+      <webElementGuid>2547d925-9fb9-46d3-9b60-27535ffe3059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia'])[1]/preceding::button[1]</value>
-      <webElementGuid>1917e50f-2703-492f-b2aa-afc252535849</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobiles &amp; Accessories'])[1]/preceding::button[1]</value>
+      <webElementGuid>ec8a4fc3-e4c0-49d4-ba05-3b170ffee682</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Add to Compare']/parent::*</value>
-      <webElementGuid>98688181-c987-49e6-ba0e-01ed4b7691b5</webElementGuid>
+      <value>//*/text()[normalize-space(.)='BUY NOW']/parent::*</value>
+      <webElementGuid>bf9de42c-d041-47a5-b0c1-5dc2893c0e0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[4]</value>
-      <webElementGuid>636b6b32-0ca7-49af-ac58-e198a576d9f1</webElementGuid>
+      <value>//form/button</value>
+      <webElementGuid>d7f80da2-f68b-4182-bd93-0ba8e8fb9d40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Add to Compare' or . = 'Add to Compare')]</value>
-      <webElementGuid>1e26e290-00c6-417f-928e-fcd150b44662</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' BUY NOW' or . = ' BUY NOW')]</value>
+      <webElementGuid>3372f635-3ffb-4907-a80e-8fe076dccf7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

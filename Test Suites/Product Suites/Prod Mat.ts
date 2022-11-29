@@ -24,18 +24,6 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Home Page/Home Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>fb72783e-b27d-4e56-932f-4e55efd85078</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0465e370-9fb5-4057-9b1e-3f7a22349e4a</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>e9edb1af-e0bb-45e6-88ad-e623a49dbbd4</guid>

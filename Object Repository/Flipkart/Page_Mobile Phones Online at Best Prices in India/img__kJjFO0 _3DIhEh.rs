@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__kJjFO0 _3DIhEh</name>
+   <tag></tag>
+   <elementGuidId>5d8a1a61-de7e-4b28-9558-9b17477c3c62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div[21]/div/div/a/div/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0934286b-519a-44e2-9dda-196cad6566db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kJjFO0 _3DIhEh</value>
+      <webElementGuid>426f5423-3197-4633-aa10-daee4e8f545b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://rukminim1.flixcart.com/fk-p-flap/50/50/image/24b194d14671390e.jpg?q=50</value>
+      <webElementGuid>30acb1a4-31bc-4b7c-bf01-98fcf328e3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Samsung S21 FE</value>
+      <webElementGuid>9b7a1a83-190f-43c7-b43e-35a9913b483d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_2_b_Xk&quot;]/div[@class=&quot;_2LURSF col col-4-12&quot;]/a[@class=&quot;_1AcS-S&quot;]/div[@class=&quot;_1bEAQy _2iN8uD&quot;]/img[@class=&quot;kJjFO0 _3DIhEh&quot;]</value>
+      <webElementGuid>449f6202-5f8b-4891-941b-e6e94285989c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div[21]/div/div/a/div/img[2]</value>
+      <webElementGuid>0cd0e266-4f67-49d5-888b-3087779e43c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Samsung S21 FE'])[2]</value>
+      <webElementGuid>0b651032-1d9f-4811-a0ad-fda34c143ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/div/div/a/div/img[2]</value>
+      <webElementGuid>8cc53b4f-1465-4b5d-b3cc-cd126f52973a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://rukminim1.flixcart.com/fk-p-flap/50/50/image/24b194d14671390e.jpg?q=50' and @alt = 'Samsung S21 FE']</value>
+      <webElementGuid>7c47d739-d42d-468b-864d-b69f84248867</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

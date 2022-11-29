@@ -33,6 +33,7 @@ WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Can
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
 
 WebUI.waitForPageLoad(5)
+
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
 
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Copy  Link to Clipboard'))
@@ -49,6 +50,7 @@ WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/T
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/Th4_Trend Growth'), 'Trend Growth')
 
 WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
+
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_4 year CAGR'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_Predicted Growth'), 0)
@@ -58,7 +60,7 @@ WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Market Tr
 
 WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Web Search Data'))
 
-WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Market Trend'))
+WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Web Search Data'))
 
 WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Market Trend'))
 

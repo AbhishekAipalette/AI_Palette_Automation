@@ -37,7 +37,9 @@ WebUI.switchToDefaultContent()*/
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
 
 WebUI.waitForPageLoad(5)
+
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
+
 'To click on copy link to clipboard'
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Copy  Link to Clipboard'))
 
@@ -55,8 +57,8 @@ WebUI.verifyElementText(findTestObject('Trend Page/Header buttons/Page_AI Palett
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/h3_Trend Growth'), 'Trend Growth')
 
 'To check CAGR is present or not'
-
 WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
+
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_4 year CAGR'), 0)
 
 'To check prediction is present or not'
@@ -69,7 +71,7 @@ WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Market Tr
 'To click on Web Search Data '
 WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Web Search Data'))
 
-WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Market Trend'))
+WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Web Search Data'))
 
 WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Market Trend'))
 
@@ -192,7 +194,6 @@ WebUI.back()*/
 */
 /*WebUI.executeJavaScript('window.scrollTo(6000, 50)', null)*/
 'To check if Related Trend is available or not.'
-
 WebUI.executeJavaScript('window.scrollTo(6000, 50)', null)
 
 WebUI.verifyElementText(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/h3_Related Themes'), 'Related Themes')
@@ -204,8 +205,6 @@ WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Pale
 WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/div_Volume'))
 
 WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/li_Rank'))
-
-
 
 WebUI.scrollToElement(findTestObject('Trend Page/Trend Page Consumer Quotes/Page_AI Palette/Consumer Quotes Block'), 20)
 

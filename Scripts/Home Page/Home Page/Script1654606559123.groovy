@@ -24,7 +24,7 @@ WebUI.verifyElementText(findTestObject('Home Page/Page_AI Palette/h2_Explore Tre
 WebUI.executeJavaScript('window.scrollTo(0, 100)', null)
 
 'To select the country from dropdown'
-WebUI.setText(findTestObject('Home Page/Page_AI Palette/input_Country_country-select'), country)
+WebUI.setText(findTestObject('Home Page/Page_AI Palette/input_Country_country-select'), GlobalVariable.country)
 
 'Sending down key '
 WebUI.sendKeys(findTestObject('Home Page/Page_AI Palette/input_Country_country-select'), Keys.chord(Keys.DOWN))
@@ -37,7 +37,7 @@ WebUI.delay(2)
 WebUI.executeJavaScript('window.scrollTo(0, 100)', null)
 
 'To select the category from dropdown'
-WebUI.setText(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), category)
+WebUI.setText(findTestObject('Home Page/Page_AI Palette/input_Product Category_combo-box'), GlobalVariable.category)
 
 WebUI.delay(2)
 

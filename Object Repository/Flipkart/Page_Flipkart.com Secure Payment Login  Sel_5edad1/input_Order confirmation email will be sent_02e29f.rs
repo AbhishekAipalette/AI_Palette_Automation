@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email Address or Username_email (1)</name>
+   <name>input_Order confirmation email will be sent_02e29f</name>
    <tag></tag>
-   <elementGuidId>3447ced4-a1a6-4b1c-a545-ca8c2d6e1c75</elementGuidId>
+   <elementGuidId>2859c06e-a199-489a-aee1-2001d2fae4c2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='mui-1']</value>
+         <key>CSS</key>
+         <value>input._2ksRRJ</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#mui-1</value>
+         <key>XPATH</key>
+         <value>//input[@type = 'email' and @placeholder = 'Enter your email ID']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,82 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-invalid</name>
-      <type>Main</type>
-      <value>false</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>email</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Email or Username</value>
+      <webElementGuid>ec938ee7-0d19-4c12-9b93-f6bf568cc1f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
+      <value>email</value>
+      <webElementGuid>e1da87aa-db84-4ad3-b7b0-84559d941943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiOutlinedInput-input MuiInputBase-input css-v6iu6c</value>
+      <value>_2ksRRJ</value>
+      <webElementGuid>c42ec26f-bbb8-41c4-9bfd-111dd598ca11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>mui-1</value>
+      <value>Enter your email ID</value>
+      <webElementGuid>0ee04866-d4b3-4912-918d-36a7735b85a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bdea9bd5-e548-438c-b485-1cb715bcabb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mui-1&quot;)</value>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1eztQ7&quot;]/div[@class=&quot;row _7SvF2e&quot;]/div[@class=&quot;_3efVlV&quot;]/div[@class=&quot;rvsx1l&quot;]/div[@class=&quot;_3E8aIl gGqMBW&quot;]/div[@class=&quot;cQZ0Lf&quot;]/div[@class=&quot;CCwLCA&quot;]/div[@class=&quot;-nohD8&quot;]/div[@class=&quot;McovBK&quot;]/span[1]/form[@class=&quot;_3_jvGv&quot;]/input[@class=&quot;_2ksRRJ&quot;]</value>
+      <webElementGuid>910a2e71-7bc3-44c5-9622-60006c394e7b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='mui-1']</value>
+      <value>//input[@value='a']</value>
+      <webElementGuid>3c8760f1-972f-4c91-b25c-21ec08583ee7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/form/div/div[2]/div/div/input</value>
+      <value>//div[@id='container']/div/div[2]/div/div/div[3]/div/div/div/div/div[5]/span/form/input</value>
+      <webElementGuid>1a749195-1ae4-4a71-8513-116405d2ec35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
+      <value>//form/input</value>
+      <webElementGuid>1df0bb00-cf14-4837-9688-2cfc284bb258</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'email' and @placeholder = 'Email or Username' and @type = 'text' and @id = 'mui-1']</value>
+      <value>//input[@type = 'email' and @placeholder = 'Enter your email ID']</value>
+      <webElementGuid>1d275e1f-a7ae-4807-bccb-25542c8b26d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

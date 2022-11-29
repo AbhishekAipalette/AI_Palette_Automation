@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Sign in to AI Palette</name>
+   <name>button_Accept  Continue</name>
    <tag></tag>
-   <elementGuidId>7b2fb065-fe97-4012-86fe-c9cf9a4e9cc3</elementGuidId>
+   <elementGuidId>86f1791d-474d-4dd1-92e6-9866ffc32044</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class = 'css-1yl0pwa']//*[@class = 'MuiTypography-root MuiTypography-h2 css-1qu1oq7']</value>
+         <key>CSS</key>
+         <value>button._2KpZ6l._1uR9yB._3dESVI</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>h2.MuiTypography-root.MuiTypography-h2.css-1qu1oq7</value>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,76 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
+      <value>button</value>
+      <webElementGuid>04a715a9-096b-4fe5-b728-ade47e893340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiTypography-root MuiTypography-h2 css-1qu1oq7</value>
+      <value>_2KpZ6l _1uR9yB _3dESVI</value>
+      <webElementGuid>a06d409a-6724-4551-99c9-96a2f0fed96d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign in to AI Palette</value>
+      <value>Accept &amp; Continue</value>
+      <webElementGuid>6fbe493e-ed4d-4bd5-8d5b-93463468c81f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;css-tqexp2&quot;]/div[@class=&quot;MuiBox-root css-4hi2mm&quot;]/form[1]/div[@class=&quot;css-1rtu6x1&quot;]/div[@class=&quot;css-1yl0pwa&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-1qu1oq7&quot;]</value>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_2wQ56C _1h3i_z&quot;]/div[@class=&quot;_2_e-g9 _2nDWtR&quot;]/div[@class=&quot;OH1fdM&quot;]/button[@class=&quot;_2KpZ6l _1uR9yB _3dESVI&quot;]</value>
+      <webElementGuid>8bfaa921-59ab-4faf-abf0-945c44a83b1f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/form/div/div/h2</value>
+      <value>//div[@id='container']/div/div/div/div/button</value>
+      <webElementGuid>d26eed48-c3c7-4d61-a84d-81ed66bce86e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foresight Engine'])[1]/following::h2[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After OTP is shared, Returns will NOT be accepted for Damages, Parts Missing or Wrong item'])[1]/following::button[1]</value>
+      <webElementGuid>9592d8ca-7588-4d64-a4ab-405dcbbd6bc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your credentials to proceed.'])[1]/preceding::h2[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share the OTP after checking the product for these issues'])[1]/following::button[1]</value>
+      <webElementGuid>643f89df-93e4-4caf-870f-f8e67c032084</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address or Username'])[1]/preceding::h2[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plus'])[1]/preceding::button[1]</value>
+      <webElementGuid>d735ac13-3323-414c-b9f1-584a95e97382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign in to AI Palette']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Accept &amp; Continue']/parent::*</value>
+      <webElementGuid>74356e12-f13b-4c84-9a86-4ec8732b8660</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
+      <value>//div/div/div/div/div/button</value>
+      <webElementGuid>6a3036ee-70c9-4ad8-b449-3ac3fd5ed2d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'Sign in to AI Palette' or . = 'Sign in to AI Palette')]</value>
+      <value>//button[(text() = 'Accept &amp; Continue' or . = 'Accept &amp; Continue')]</value>
+      <webElementGuid>d2408d84-d8d6-4e32-9d73-3237c670b6e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

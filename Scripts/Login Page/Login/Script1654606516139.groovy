@@ -44,5 +44,4 @@ WebUI.setText(findTestObject('Login/Page_AI Palette/input_Password_password'), G
 WebUI.click(findTestObject('Login/Page_AI Palette/button_Sign in'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Login/Page_AI Palette/h2_Explore Trends'), 'Explore Trends')
-WebUI.verify
 

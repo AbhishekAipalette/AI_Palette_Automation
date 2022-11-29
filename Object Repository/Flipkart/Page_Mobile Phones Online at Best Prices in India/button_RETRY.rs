@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h4_Consumer Insight</name>
+   <name>button_RETRY</name>
    <tag></tag>
-   <elementGuidId>5a3e4c9e-4c36-4728-b316-141c7fe8dd05</elementGuidId>
+   <elementGuidId>b800dc21-629d-483e-a38c-f1ee12191151</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h4.MuiTypography-root.MuiTypography-h4.css-13cqvt4</value>
+         <value>button._2KpZ6l.vm3SEU._3dESVI</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class = &quot;MuiTypography-root MuiTypography-h4 css-13cqvt4&quot;]</value>
+         <value>//div[@id='container']/div/div[3]/div/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h4</value>
-      <webElementGuid>30872634-1b5a-4040-81ad-030f06353d27</webElementGuid>
+      <value>button</value>
+      <webElementGuid>3d575e43-1d3c-477e-a30e-0145da69b6e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiTypography-root MuiTypography-h4 css-13cqvt4</value>
-      <webElementGuid>4ba96fbf-1445-4fdb-b3be-3992a77541da</webElementGuid>
+      <value>_2KpZ6l vm3SEU _3dESVI</value>
+      <webElementGuid>4d719935-b06b-4c8b-85c9-f5ef0c5274ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Consumer Insight</value>
-      <webElementGuid>4dd61c23-fe4e-4972-a6b1-9666564e94a8</webElementGuid>
+      <value>RETRY</value>
+      <webElementGuid>eef7776f-5534-40be-87f5-dc0ab56e2eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_dowSectionDesc&quot;)/div[@class=&quot;css-ovnx7g&quot;]/div[@class=&quot;css-yd8sa2&quot;]/div[@class=&quot;MuiBox-root css-ic97bx&quot;]/h4[@class=&quot;MuiTypography-root MuiTypography-h4 css-13cqvt4&quot;]</value>
-      <webElementGuid>56779d75-fe4d-40c3-88a6-32742ba63f64</webElementGuid>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_36fx1h _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_3E8aIl _2qUd5H&quot;]/div[@class=&quot;ZVE96X&quot;]/div[1]/button[@class=&quot;_2KpZ6l vm3SEU _3dESVI&quot;]</value>
+      <webElementGuid>616336a5-5bb4-439b-9c4e-840e77919397</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='_dowSectionDesc']/div/div/div/h4</value>
-      <webElementGuid>cd1e4774-b127-4285-924f-f89fcafba8d3</webElementGuid>
+      <value>//div[@id='container']/div/div[3]/div/div/div/button</value>
+      <webElementGuid>5f6ecf25-4f47-4359-8c59-c991259858d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taste'])[1]/following::h4[1]</value>
-      <webElementGuid>09f3faca-9e5c-436b-8b51-945b4e4de5ca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please try again'])[1]/following::button[1]</value>
+      <webElementGuid>8d3c1823-0881-4577-bf2d-a7377dbcb49d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia Snacks'])[1]/following::h4[1]</value>
-      <webElementGuid>431f932b-6f38-4ff6-8c83-57082edb55d9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Something', &quot;'&quot;, 's not right!')])[1]/following::button[1]</value>
+      <webElementGuid>2e5f01a2-2400-43a3-95f7-bdb135b4dbe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::h4[1]</value>
-      <webElementGuid>619618cc-c784-49f5-824d-4ea08234f0d1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT'])[1]/preceding::button[1]</value>
+      <webElementGuid>72921e22-ba65-45e6-84c1-9f44b5801a6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taste'])[2]/preceding::h4[1]</value>
-      <webElementGuid>4d90a277-f4e2-4794-a939-aa30e7dea1d8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::button[1]</value>
+      <webElementGuid>fe09a27e-b4fe-40bc-a6fe-4c1a88613ab2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Consumer Insight']/parent::*</value>
-      <webElementGuid>74b6bcd6-e92d-441c-af56-dc4862b548af</webElementGuid>
+      <value>//*/text()[normalize-space(.)='RETRY']/parent::*</value>
+      <webElementGuid>f580f6b1-ec3a-4152-867d-c937bf19c167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h4</value>
-      <webElementGuid>6e82745b-7d31-4102-b313-ffc5f8b305f6</webElementGuid>
+      <value>//div/div/button</value>
+      <webElementGuid>090656ff-f886-48e4-beec-27eca39584a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h4[(text() = 'Consumer Insight' or . = 'Consumer Insight')]</value>
-      <webElementGuid>ed1ee6b5-6c00-463e-9cc9-93e9e974dc42</webElementGuid>
+      <value>//button[(text() = 'RETRY' or . = 'RETRY')]</value>
+      <webElementGuid>60356cc0-a473-4cfa-b5cf-4bc9983ad795</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

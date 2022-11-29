@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Testing1</name>
+   <name>Flipkart</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>308db50e-afda-4f29-966c-037008432ad6</testCaseGuid>
+   <testCaseGuid>f7536bd4-189d-48da-9302-2278489b33dd</testCaseGuid>
 </TestCaseEntity>

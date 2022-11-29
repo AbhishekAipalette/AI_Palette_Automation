@@ -34,7 +34,9 @@ WebUI.switchToDefaultContent()
 
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Cancel'))*/
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
+
 WebUI.waitForPageLoad(5)
+
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Bookmark'))
 
 WebUI.click(findTestObject('Trend Page/Header buttons/Page_AI Palette/button_Copy  Link to Clipboard'))
@@ -50,8 +52,8 @@ WebUI.verifyElementText(findTestObject('Trend Page/Header buttons/Page_AI Palett
 
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Graph/Page_AI Palette/h3_Trend Growth'), 'Trend Growth')
 
-
 WebUI.executeJavaScript('window.scrollTo(0, 200)', null)
+
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_4 year CAGR'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Trend Page/Trend Graph/Page_AI Palette/span_Predicted Growth'), 0)
@@ -61,7 +63,7 @@ WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Market Tr
 
 WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Web Search Data'))
 
-WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Market Trend'))
+WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/div_Web Search Data'))
 
 WebUI.click(findTestObject('Trend Page/Trend Graph/Page_AI Palette/li_Market Trend'))
 
@@ -75,8 +77,8 @@ WebUI.click(findTestObject('Trend Page/FS and Retail Products/Food Service/Page_
 WebUI.click(findTestObject('Trend Page/FS and Retail Products/Food Service/Page_AI Palette/li_English'))*/
 /*CustomKeywords.'food_service.FoodService.FoodServiceProducts'()
 CustomKeywords.'retail_products.RetailProduct.RetailProducts'()*/
-
 WebUI.executeJavaScript('window.scrollTo(0, 500)', null)
+
 if (WebUI.verifyTextPresent('Food Service Products', true)) {
     WebUI.click(findTestObject('Trend Page/FS and Retail Products/Food Service/Page_AI Palette/div_English'))
 
@@ -105,8 +107,8 @@ WebUI.click(findTestObject('Trend Page/FS and Retail Products/Retail Products/Pa
 /*WebUI.scrollToElement(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/Related Theme block'), 20)
 
 WebUI.executeJavaScript('window.scrollTo(6000, 50)', null)*/
-
 WebUI.executeJavaScript('window.scrollTo(6000, 50)', null)
+
 WebUI.verifyElementText(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/h3_Related Themes'), 'Related Themes')
 
 WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/div_Rank'))
@@ -122,6 +124,7 @@ WebUI.scrollToElement(findTestObject('Trend Page/Trend Page Consumer Quotes/Page
 /*WebUI.click(findTestObject('Trend Page/Related Trends/Related Theme/Page_AI Palette/button_Download'))
 */
 WebUI.executeJavaScript('window.scrollTo(7000, 78)', null)
+
 WebUI.executeJavaScript('window.scrollTo(0, 2200)', null)
 
 WebUI.verifyElementText(findTestObject('Trend Page/Trend Page Consumer Quotes/Page_AI Palette/h3_Verbatims'), 'Verbatims')
