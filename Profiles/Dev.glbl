@@ -26,7 +26,22 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Dairy'</initValue>
+      <initValue>'Beverage'</initValue>
       <name>category</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TestingIngredient'</initValue>
+      <name>pillarIngredient</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TestingTheme'</initValue>
+      <name>pillarTheme</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TestingProduct'</initValue>
+      <name>pillarProduct</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
