@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Ingredients</name>
    <tag></tag>
-   <elementGuidId>605acc53-770c-4491-8aec-248cff07bc22</elementGuidId>
+   <elementGuidId>6ef726f1-ce1e-49dd-89c6-b42b861a63db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.MuiToggleButtonGroup-root.css-1kb6hlb > button.MuiButtonBase-root.MuiToggleButton-root.Mui-selected.MuiToggleButton-sizeMedium.MuiToggleButton-standard.MuiToggleButtonGroup-grouped.MuiToggleButtonGroup-groupedHorizontal.css-1z01sl5</value>
+         <value>button.MuiButtonBase-root.MuiToggleButton-root.MuiToggleButton-sizeMedium.MuiToggleButton-standard.MuiToggleButtonGroup-grouped.MuiToggleButtonGroup-groupedHorizontal.css-1z01sl5</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@value='Ingredient']</value>
+         <value>(//button[@value='Ingredient'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>695bae21-5a7e-405b-a299-5c9d4bb7ec42</webElementGuid>
+      <webElementGuid>0bd0c257-cc11-423d-99a7-0a89c1242f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiToggleButton-root Mui-selected MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal css-1z01sl5</value>
-      <webElementGuid>ba05708c-9910-480e-9314-23faf61a8084</webElementGuid>
+      <value>MuiButtonBase-root MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal css-1z01sl5</value>
+      <webElementGuid>c1581be7-5bd9-4ab2-9fb7-1feb65bfb110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f49c776c-fd3c-4bc2-b96a-4be3433a0d25</webElementGuid>
+      <webElementGuid>fb999f23-54e6-4e39-923d-7ee870edbe36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eb44bc4f-9c80-47df-8200-3bfdd0976911</webElementGuid>
+      <webElementGuid>67eea13b-fc29-4530-a8dd-db0cfb41046e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,23 +54,23 @@
       <name>value</name>
       <type>Main</type>
       <value>Ingredient</value>
-      <webElementGuid>87bcabce-f6b0-402d-98d5-da31cbb86b72</webElementGuid>
+      <webElementGuid>c3bae0ae-6a0b-45e6-b202-dfcb0dab3964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-pressed</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>ff9cafde-e2e9-4d0d-be3a-657cd9bb6ce0</webElementGuid>
+      <value>false</value>
+      <webElementGuid>052c9e90-3e03-4faf-8f9b-2b1d871402d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Ingredient lens</value>
-      <webElementGuid>b777209e-de87-4172-ad41-3efe60e437be</webElementGuid>
+      <value>Ingredients</value>
+      <webElementGuid>3c7984e0-5617-4f64-ab73-27b6b69566c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,79 +78,71 @@
       <name>text</name>
       <type>Main</type>
       <value>Ingredients</value>
-      <webElementGuid>76d1af17-4468-42f1-9fdf-a290457f90bc</webElementGuid>
+      <webElementGuid>04b1df5a-a438-432b-acaa-6d92bd531723</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-azdwc9&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-md-1.77 css-1037k2l&quot;]/div[@class=&quot;css-l5c1s3&quot;]/div[@class=&quot;css-1xhj18k&quot;]/div[@class=&quot;MuiToggleButtonGroup-root css-1kb6hlb&quot;]/button[@class=&quot;MuiButtonBase-root MuiToggleButton-root Mui-selected MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal css-1z01sl5&quot;]</value>
-      <webElementGuid>09c0d646-1542-449c-af4e-d3342c5ad186</webElementGuid>
+      <value>id(&quot;simple-tabpanel-0&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/form[1]/div[@class=&quot;css-tw3jj0&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop css-pohbr8&quot;]/div[@class=&quot;MuiToggleButtonGroup-root css-1dg7h8o&quot;]/button[@class=&quot;MuiButtonBase-root MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal css-1z01sl5&quot;]</value>
+      <webElementGuid>0059f0ca-3531-43c3-a5c9-203551addf67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@value='Ingredient']</value>
-      <webElementGuid>b34420a8-f1a6-485b-bcd1-12d2647ed79a</webElementGuid>
+      <value>(//button[@value='Ingredient'])[2]</value>
+      <webElementGuid>268c9a62-41ea-4858-97a1-eda4550c7668</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/button</value>
-      <webElementGuid>8f0818a4-d831-40e3-abad-cba1b6fd9dfd</webElementGuid>
+      <value>//div[@id='simple-tabpanel-0']/div/form/div/label/div/button</value>
+      <webElementGuid>1fc636c4-6453-4667-9a1c-8d5c29f468bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lens'])[1]/following::button[1]</value>
-      <webElementGuid>90650477-333b-4b56-a98f-d53498bb6394</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[3]/following::button[1]</value>
+      <webElementGuid>0f7bee44-aef6-4a40-a486-f9d0b3ba62f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced'])[1]/following::button[1]</value>
-      <webElementGuid>d74cbcbc-f4fa-413b-99c1-14f317cd2105</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[8]/following::button[3]</value>
+      <webElementGuid>256f0e08-e90e-4862-b071-e7822956c5c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::button[1]</value>
-      <webElementGuid>68281438-3652-4ee9-9d9c-052bb85908f8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[2]/preceding::button[1]</value>
+      <webElementGuid>3136a7c2-0b9c-43a8-bc38-e7a343931bb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maturity Phase'])[1]/preceding::button[2]</value>
-      <webElementGuid>a9e72bff-d381-4c24-9614-8843d65b131d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ingredients']/parent::*</value>
-      <webElementGuid>857b4ed3-02e7-41fa-abbd-7b823a62464c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Themes'])[2]/preceding::button[2]</value>
+      <webElementGuid>92f7954a-0186-4b15-8d82-1836eea5a794</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div/button</value>
-      <webElementGuid>3ef27365-6982-4437-8735-5d00a0703238</webElementGuid>
+      <value>//label/div/button</value>
+      <webElementGuid>1b6ce887-1134-4efa-bd4f-4632708cee87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Ingredients' or . = 'Ingredients')]</value>
-      <webElementGuid>a75ccbdc-9e68-41a4-b1c2-8dd6cd2b0893</webElementGuid>
+      <webElementGuid>15bd466a-dd07-4b84-8108-8e5000303d6c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

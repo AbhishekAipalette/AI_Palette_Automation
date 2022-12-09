@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Login Page/Login'), [:], FailureHandling.CONTIN
 
 WebUI.click(findTestObject('Object Repository/WSO/Page_AI Palette/button_White Space Opportunity'))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/WSO_Ingredient.png')
+WebUI.takeScreenshot('C:/Users/WSO_Ingredient.png')
 
 WebUI.click(findTestObject('Object Repository/WSO/Page_AI Palette/button_Graph View'))
 
@@ -37,11 +37,11 @@ WebUI.sendKeys(findTestObject('Object Repository/WSO/Page_AI Palette/input_Categ
 
 WebUI.sendKeys(findTestObject('Object Repository/WSO/Page_AI Palette/input_Category_combo-box'), Keys.chord(Keys.ENTER))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/WSO_Ingredient_Graph.png')
+WebUI.takeScreenshot('C:/Users/WSO_Ingredient_Graph.png')
 
 WebUI.click(findTestObject('Object Repository/WSO/Page_AI Palette/button_Table View'))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/WSO_Ingredient_Table.png')
+WebUI.takeScreenshot('C:/Users/WSO_Ingredient_Table.png')
 
 WebUI.click(findTestObject('Object Repository/WSO/Page_AI Palette/button_themes'))
 
@@ -59,11 +59,11 @@ WebUI.sendKeys(findTestObject('Object Repository/WSO/Page_AI Palette/input_Categ
 
 WebUI.sendKeys(findTestObject('Object Repository/WSO/Page_AI Palette/input_Category_combo-box'), Keys.chord(Keys.ENTER))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/WSO_Theme_Graph.png')
+WebUI.takeScreenshot('C:/Users/WSO_Theme_Graph.png')
 
 WebUI.click(findTestObject('Object Repository/WSO/Page_AI Palette/button_Table View'))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/WSO_Theme_Table.png')
+WebUI.takeScreenshot('C:/Users/WSO_Theme_Table.png')
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Acai</name>
+   <tag></tag>
+   <elementGuidId>89647cb4-9450-4bf2-99e3-b3aeb30da0d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.MuiFormControlLabel-root.MuiFormControlLabel-labelPlacementEnd.css-x2ng6j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div/div/div/fieldset/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>df2a28cd-6c66-46bf-999e-d1936eb045e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-x2ng6j</value>
+      <webElementGuid>cc9ed6fa-dd9f-4836-9185-5ad78ddc395d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Acai</value>
+      <webElementGuid>0e850002-706b-4a76-b98c-63066ea35702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-pp7nsx&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-8snq7r&quot;]/div[@class=&quot;checkBoxList&quot;]/div[1]/div[1]/fieldset[@class=&quot;MuiFormControl-root css-s7unyp&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormGroup-root MuiFormGroup-row css-p58oka&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-x2ng6j&quot;]</value>
+      <webElementGuid>18e1323f-dd7c-4a39-aa59-888d0333fc51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div/div/div/fieldset/div/div/label</value>
+      <webElementGuid>c6b07cd5-462e-4567-bc9b-6272c2e8691a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[8]/following::label[1]</value>
+      <webElementGuid>74311d36-bcf8-4ef9-80a6-f6c4edd9c7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/following::label[1]</value>
+      <webElementGuid>0fab9949-b0d7-4a10-86fb-b94fe3ec6edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acerola'])[1]/preceding::label[1]</value>
+      <webElementGuid>ff2aef2d-3c40-4be7-869c-62465fe6aace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>67f457c1-0dc7-4df0-8ce6-0fee80b547c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Acai' or . = 'Acai')]</value>
+      <webElementGuid>79d2e758-efb3-40cd-b4b0-5933b1417cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

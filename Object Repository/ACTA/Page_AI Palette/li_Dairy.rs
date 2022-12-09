@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Common Trends Analysis</name>
+   <name>li_Dairy</name>
    <tag></tag>
-   <elementGuidId>6a5e614a-5684-4cc1-973f-fe35a42d9b7a</elementGuidId>
+   <elementGuidId>24273607-28ad-40fc-a04c-0c8c0e14130c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#simple-tab-2</value>
+         <value>#mui-17-option-2</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='simple-tab-2']</value>
+         <value>//li[@id='mui-17-option-2']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,16 +21,8 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e9e0d19b-d35c-4c46-a315-2bfc62404f3b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary css-5ugb17</value>
-      <webElementGuid>bb226f78-4003-42f6-bed6-db38cbb400da</webElementGuid>
+      <value>li</value>
+      <webElementGuid>1b13557b-2dec-4af2-bbd2-7c31af86c1c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,23 +30,39 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>84bdbd78-eca7-4b08-bdcc-bdfec8a17a7a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e1140d37-9e41-40bc-96ee-a94034a2b35e</webElementGuid>
+      <webElementGuid>92747c04-d2f8-4cf9-9a78-fd6c9e80ed95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>tab</value>
-      <webElementGuid>27233abf-f00c-4f71-b578-bcf7996c5ac3</webElementGuid>
+      <value>option</value>
+      <webElementGuid>84b0bd6a-e49d-41c1-8125-b35855a32e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mui-17-option-2</value>
+      <webElementGuid>51e1ff6e-f6e5-4be0-a44e-842f4d50288f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>49439389-416b-4912-b965-4a4a93c7e9e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3a07eaaa-3697-4e9a-8a80-3911955a2126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,110 +70,102 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e73c4f73-5ac2-4e21-821d-1faf2201036b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>simple-tab-2</value>
-      <webElementGuid>a9f69dc3-cdd4-4f2a-b091-23b6359b908f</webElementGuid>
+      <webElementGuid>e548e563-d935-41d0-95e0-3e8a9cb8f1b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-controls</name>
+      <name>class</name>
       <type>Main</type>
-      <value>simple-tabpanel-2</value>
-      <webElementGuid>5d6c46d8-cbb5-4ab3-bf8a-41d2d0ac84e4</webElementGuid>
+      <value>MuiAutocomplete-option Mui-focused</value>
+      <webElementGuid>26d480c6-1ca1-4a4e-98f5-1f36a71faa9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Common Trends Analysis</value>
-      <webElementGuid>8bb492bb-cfe2-4a4e-9afb-fc53a029ec9e</webElementGuid>
+      <value>Dairy</value>
+      <webElementGuid>c424d7b3-7e6e-4eb4-9f0b-1f8764b7d27f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;simple-tab-2&quot;)</value>
-      <webElementGuid>b0518510-ae3d-4596-abbb-2f3b47b1fb16</webElementGuid>
+      <value>id(&quot;mui-17-option-2&quot;)</value>
+      <webElementGuid>c8ae53cb-4f9d-46ad-bf22-541e827018d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='simple-tab-2']</value>
-      <webElementGuid>d258c404-785f-4e4d-9625-da29c7c1eccc</webElementGuid>
+      <value>//li[@id='mui-17-option-2']</value>
+      <webElementGuid>a3a8d9c3-087b-4be0-bf66-3a92b40bc3a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/button[3]</value>
-      <webElementGuid>4ed8e94f-55e9-4e7b-a8db-593e1c31612a</webElementGuid>
+      <value>//ul[@id='mui-17-listbox']/li[3]</value>
+      <webElementGuid>1dd88564-54c9-475d-af0d-d84e29b60e95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='White Space Opportunity'])[1]/following::button[1]</value>
-      <webElementGuid>32b4c12a-88d9-40a8-8d47-8b98acee9bf6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beverage'])[1]/following::li[1]</value>
+      <webElementGuid>107cafa6-4e3f-4ab0-bb5e-bd4d2048a7e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Trends'])[1]/following::button[2]</value>
-      <webElementGuid>48efe3bc-1721-4141-bd10-5a1f6d7ddf6d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plant-based'])[1]/following::li[2]</value>
+      <webElementGuid>b1d4b803-6357-4e00-92c7-b5f15914d2fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Universal Trend Search'])[1]/preceding::button[1]</value>
-      <webElementGuid>040415af-0cb2-46b4-9e33-630301d9d0c7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready-to-Eat'])[1]/preceding::li[1]</value>
+      <webElementGuid>1b254566-b3c2-4025-89db-f2db3943cfb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Trends'])[2]/preceding::button[2]</value>
-      <webElementGuid>2763fc57-5784-429f-a092-baa80481674a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snacks'])[1]/preceding::li[2]</value>
+      <webElementGuid>03fe6881-9e2b-4f5e-a9c2-d55db2c03311</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Common Trends Analysis']/parent::*</value>
-      <webElementGuid>9bab3d4f-66b8-431f-bf2d-580a00d546a0</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Dairy']/parent::*</value>
+      <webElementGuid>c6a686c2-4938-4c95-a6f6-db8301dcf1cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/button[3]</value>
-      <webElementGuid>72d9bc17-7395-49f5-b646-1c7b8f81b4f0</webElementGuid>
+      <value>//li[3]</value>
+      <webElementGuid>632e95c4-a5c3-4636-a9a9-a6c0cd7483d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'simple-tab-2' and (text() = 'Common Trends Analysis' or . = 'Common Trends Analysis')]</value>
-      <webElementGuid>cfd913c9-6626-478a-a44e-8049757b7612</webElementGuid>
+      <value>//li[@id = 'mui-17-option-2' and (text() = 'Dairy' or . = 'Dairy')]</value>
+      <webElementGuid>ead1c0d5-1b42-4151-bb23-d58224b2e6d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

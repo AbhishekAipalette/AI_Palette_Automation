@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Login Page/Login'), [:], FailureHandling.CONTIN
 
 WebUI.click(findTestObject('Object Repository/Universal Trend Search/Page_AI Palette/button_Universal Trend Search'))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/universal.png')
+WebUI.takeScreenshot('C:/Users/universal.png')
 
 WebUI.click(findTestObject('Object Repository/Universal Trend Search/Page_AI Palette/input__bucket-search'))
 
@@ -30,7 +30,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Universal Trend Search/Page_AI 
 
 WebUI.sendKeys(findTestObject('Universal Trend Search/Page_AI Palette/input__bucket-search'), Keys.chord(Keys.ENTER))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/universal_ingredient.png')
+WebUI.takeScreenshot('C:/Users/universal_ingredient.png')
 
 WebUI.click(findTestObject('Object Repository/Universal Trend Search/Page_AI Palette/input__bucket-search'))
 
@@ -43,7 +43,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Universal Trend Search/Page_AI 
 
 WebUI.sendKeys(findTestObject('Universal Trend Search/Page_AI Palette/input__bucket-search'), Keys.chord(Keys.ENTER))
 
-WebUI.takeScreenshot('C:/Users/ABHISHEK/Katalon Studio/universal_theme.png')
+WebUI.takeScreenshot('C:/Users/universal_theme.png')
 
 WebUI.closeBrowser()
 

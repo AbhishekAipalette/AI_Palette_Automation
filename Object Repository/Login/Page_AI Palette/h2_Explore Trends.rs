@@ -6,12 +6,12 @@
    <elementGuidId>c7f0b583-175c-4603-a804-a8b483159db1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h2.MuiTypography-root.MuiTypography-h2.css-1qu1oq7</value>
+         <key>XPATH</key>
+         <value>//h2[(text() = 'Explore Trends' or . = 'Explore Trends')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class = &quot;MuiTypography-root MuiTypography-h2 css-1qu1oq7&quot;]</value>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h2.css-1qu1oq7</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>2922aa2d-2cb6-4350-a358-e04739088182</webElementGuid>
+      <webElementGuid>0f242c33-3299-4bdb-882c-62427cef0c3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h2 css-1qu1oq7</value>
-      <webElementGuid>de6708fc-2af8-4b88-9ed0-153a94406feb</webElementGuid>
+      <webElementGuid>200452df-5f08-423d-941f-9d8b1f583c26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Explore Trends</value>
-      <webElementGuid>9b14bb60-fb03-4746-8a4f-010207bbbb21</webElementGuid>
+      <webElementGuid>6ab80159-0881-4a9b-a2ce-20fd47255ba8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-1h77wgb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 css-efwuvd&quot;]/div[@class=&quot;MuiBox-root css-5vb4lz&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-1qu1oq7&quot;]</value>
-      <webElementGuid>41400d5a-7e48-446a-a53f-768d7ad3e32a</webElementGuid>
+      <webElementGuid>9210a1e1-382d-472c-a656-c2cb199ec8d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[2]/div/div/h2</value>
-      <webElementGuid>cb7946ca-a1fc-46f0-85a9-7116c7e6f072</webElementGuid>
+      <webElementGuid>361f8a7d-7d11-47da-bbbd-8c5e149b0169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Common Trends Analysis'])[1]/following::h2[1]</value>
-      <webElementGuid>a82b66d8-212a-46ae-9c43-1dc29f854787</webElementGuid>
+      <webElementGuid>c2053aea-75bb-4b8e-af97-8916350ae0e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Trends'])[1]/following::h2[1]</value>
-      <webElementGuid>ed089605-84cd-41e3-a12d-a6a20bc582ed</webElementGuid>
+      <webElementGuid>5d85d7b1-92e7-4f57-85e2-76bd93942717</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Country and Product Category'])[1]/preceding::h2[1]</value>
-      <webElementGuid>1d272153-1cdd-4813-aa54-8607f1891a48</webElementGuid>
+      <webElementGuid>1b5cbd6e-1646-4902-8006-fe74dd1f1cd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/preceding::h2[1]</value>
-      <webElementGuid>9cd388d2-8ba1-4cb2-be3c-b7e699c4d0dc</webElementGuid>
+      <webElementGuid>662e3845-59e3-44b5-a388-3519e12f837d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>5f6bcbdb-8908-4c5c-8391-1f82dd9cd893</webElementGuid>
+      <webElementGuid>656a5fea-fc0b-4c86-83f4-adbc598a6c03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Explore Trends' or . = 'Explore Trends')]</value>
-      <webElementGuid>215a8dcf-b1f8-4a12-81ef-30be7a9a547d</webElementGuid>
+      <webElementGuid>a6b56208-33c1-488d-8c4b-0c998d2bdbe8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
