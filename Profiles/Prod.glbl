@@ -21,12 +21,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Australia'</initValue>
+      <initValue>'USA'</initValue>
       <name>country</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Beverage'</initValue>
+      <initValue>'Snacks'</initValue>
       <name>category</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

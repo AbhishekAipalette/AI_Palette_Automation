@@ -6,12 +6,12 @@
    <elementGuidId>6ef726f1-ce1e-49dd-89c6-b42b861a63db</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiToggleButton-root.MuiToggleButton-sizeMedium.MuiToggleButton-standard.MuiToggleButtonGroup-grouped.MuiToggleButtonGroup-groupedHorizontal.css-1z01sl5</value>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Ingredients' or . = 'Ingredients')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@value='Ingredient'])[2]</value>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiToggleButton-root.MuiToggleButton-sizeMedium.MuiToggleButton-standard.MuiToggleButtonGroup-grouped.MuiToggleButtonGroup-groupedHorizontal.css-1z01sl5</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0bd0c257-cc11-423d-99a7-0a89c1242f9b</webElementGuid>
+      <webElementGuid>5867c074-9061-46f3-adb1-e3e7861bfc3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal css-1z01sl5</value>
-      <webElementGuid>c1581be7-5bd9-4ab2-9fb7-1feb65bfb110</webElementGuid>
+      <webElementGuid>d32f1f3f-2f7c-4987-aa35-3500bcfd2e92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>fb999f23-54e6-4e39-923d-7ee870edbe36</webElementGuid>
+      <webElementGuid>cff98598-b7ba-47ee-80c4-47a6418d6ab1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>67eea13b-fc29-4530-a8dd-db0cfb41046e</webElementGuid>
+      <webElementGuid>1502ea29-1302-4cb5-8df3-221b54462ef1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Ingredient</value>
-      <webElementGuid>c3bae0ae-6a0b-45e6-b202-dfcb0dab3964</webElementGuid>
+      <webElementGuid>3aa8ad2d-9272-484d-aa27-0365b0defe22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-pressed</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>052c9e90-3e03-4faf-8f9b-2b1d871402d0</webElementGuid>
+      <webElementGuid>36e07718-c732-41e1-adca-b88411e49538</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Ingredients</value>
-      <webElementGuid>3c7984e0-5617-4f64-ab73-27b6b69566c0</webElementGuid>
+      <webElementGuid>732e76fe-b465-46a6-9b62-dfb327d4c252</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ingredients</value>
-      <webElementGuid>04b1df5a-a438-432b-acaa-6d92bd531723</webElementGuid>
+      <webElementGuid>0f21cabd-c5df-4a21-9931-601a0c3b44bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;simple-tabpanel-0&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/form[1]/div[@class=&quot;css-tw3jj0&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementTop css-pohbr8&quot;]/div[@class=&quot;MuiToggleButtonGroup-root css-1dg7h8o&quot;]/button[@class=&quot;MuiButtonBase-root MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal css-1z01sl5&quot;]</value>
-      <webElementGuid>0059f0ca-3531-43c3-a5c9-203551addf67</webElementGuid>
+      <webElementGuid>b0106567-d798-4170-a8f9-3a3ee5a0294f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@value='Ingredient'])[2]</value>
-      <webElementGuid>268c9a62-41ea-4858-97a1-eda4550c7668</webElementGuid>
+      <webElementGuid>ea7b46d0-b7a6-4f59-ac5a-c9eb74953629</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='simple-tabpanel-0']/div/form/div/label/div/button</value>
-      <webElementGuid>1fc636c4-6453-4667-9a1c-8d5c29f468bd</webElementGuid>
+      <webElementGuid>03daec7b-e8b1-4eae-afaa-aeb0223ea179</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[3]/following::button[1]</value>
-      <webElementGuid>0f7bee44-aef6-4a40-a486-f9d0b3ba62f9</webElementGuid>
+      <webElementGuid>431ad817-6497-4410-a6cc-f9e94d6bad8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[8]/following::button[3]</value>
-      <webElementGuid>256f0e08-e90e-4862-b071-e7822956c5c8</webElementGuid>
+      <webElementGuid>f01a386f-d913-4db7-a6e9-463a43a27771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[2]/preceding::button[1]</value>
-      <webElementGuid>3136a7c2-0b9c-43a8-bc38-e7a343931bb7</webElementGuid>
+      <webElementGuid>f95a5184-829a-4312-9850-319a51ef5d9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Themes'])[2]/preceding::button[2]</value>
-      <webElementGuid>92f7954a-0186-4b15-8d82-1836eea5a794</webElementGuid>
+      <webElementGuid>a9811afd-7c23-4cb4-9fd3-9abd0eed7437</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/div/button</value>
-      <webElementGuid>1b6ce887-1134-4efa-bd4f-4632708cee87</webElementGuid>
+      <webElementGuid>5c684eac-fd1f-4a1f-b198-2d8ed2bee67f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Ingredients' or . = 'Ingredients')]</value>
-      <webElementGuid>15bd466a-dd07-4b84-8108-8e5000303d6c</webElementGuid>
+      <webElementGuid>73674b2b-6255-48e7-ba98-a099647b5cef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

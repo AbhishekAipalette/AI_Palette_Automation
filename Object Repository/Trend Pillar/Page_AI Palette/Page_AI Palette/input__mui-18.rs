@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mui-18']</value>
+         <value>//input[@placeholder = 'Search Pillar' and @type = 'text']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1da0937f-9643-42ee-b275-20c92ca16192</webElementGuid>
+      <webElementGuid>bddb8ff7-c3d3-420c-9d01-9262ae893ac7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cdb8dc6c-92dc-4042-bf57-f64f43e7b3d4</webElementGuid>
+      <webElementGuid>8e9dced5-dbcf-4d7c-ab90-7f1b1d261cfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search Pillar</value>
-      <webElementGuid>b6eb12e9-e909-4f60-84cb-bff83d5a0ae6</webElementGuid>
+      <webElementGuid>b1d2edca-f110-4e80-bd26-9fc53f07aa50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cad5d8e3-581b-4446-a9cd-88cfa44aa4f9</webElementGuid>
+      <webElementGuid>4416d588-8137-4688-8bbf-cf6194b2f5cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart css-q2iokz</value>
-      <webElementGuid>4d92b18d-364e-42fa-a806-9a5583856bb1</webElementGuid>
+      <webElementGuid>3749e3bd-2a71-4d0e-998c-82bb541ff34e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mui-18</value>
-      <webElementGuid>b677f20f-ef7d-41e4-879e-3eac3f93479e</webElementGuid>
+      <webElementGuid>854781b2-e0b9-42ca-92d7-1fe5b3de5299</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mui-18&quot;)</value>
-      <webElementGuid>0374a551-97e7-45e0-9800-18b3b3b9244d</webElementGuid>
+      <webElementGuid>706ec8f3-dd04-48be-8cd8-c0af607347e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mui-18']</value>
-      <webElementGuid>c5298571-cb97-4fcd-b8a2-0a92a8650e9b</webElementGuid>
+      <webElementGuid>1b91712e-f798-48db-9786-3735e023bc16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div/div/input</value>
-      <webElementGuid>6b5120ea-aab5-4492-a56b-717cab7d1d2c</webElementGuid>
+      <webElementGuid>4f5f1041-d592-439b-b8db-a1d9809cd7bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>f9850108-2e8c-4c50-a547-9b61ee3e4c92</webElementGuid>
+      <webElementGuid>2ab2bf85-9487-4177-87cb-6ef2408d7dc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Search Pillar' and @type = 'text' and @id = 'mui-18']</value>
-      <webElementGuid>3a79d357-baab-46fd-92a6-88d63eaf615c</webElementGuid>
+      <webElementGuid>5bbad2ca-2ffe-44aa-8cd8-19b54b2f8042</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

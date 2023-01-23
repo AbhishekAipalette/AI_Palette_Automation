@@ -6,12 +6,12 @@
    <elementGuidId>1aa113ec-f86a-450c-a31b-924c3d99ed9e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.css-1vmmxys</value>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Trend Pillar' or . = 'Trend Pillar')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.css-1vmmxys</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ec59692a-ba6f-4e22-a29e-b9f3b1f4f7e5</webElementGuid>
+      <webElementGuid>14384f15-80a7-4852-950e-08471f952a41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1vmmxys</value>
-      <webElementGuid>463a5da4-7af4-40ab-93a5-ab291853c25a</webElementGuid>
+      <webElementGuid>f5b6f620-4947-47e4-b5b0-aacc230e1c03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b793452e-99c9-4590-820c-e14fb1b0f594</webElementGuid>
+      <webElementGuid>81db7b99-7709-4ded-a1da-b9be180c8d7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>caab45b9-1f1c-44d4-ab7c-1292ea4cfbe0</webElementGuid>
+      <webElementGuid>ddb68c04-82d6-4e55-b430-da6a4248bff9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>btn</value>
-      <webElementGuid>f75c055e-0624-45dd-8ba1-4e3cec5ef231</webElementGuid>
+      <webElementGuid>a084c61e-bdba-4187-9081-e7f558b25655</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Trend Pillar</value>
-      <webElementGuid>03d7037e-52e8-42b1-9b45-44e08955820d</webElementGuid>
+      <webElementGuid>2d94426b-8643-45dd-b6b8-53bce0200bed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionSticky css-1yasvcl&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular css-12o98wt&quot;]/div[@class=&quot;MuiBox-root css-1q0ir0a&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-1vmmxys&quot;]</value>
-      <webElementGuid>cf8366b8-d0b3-4730-8565-ea15a025944e</webElementGuid>
+      <webElementGuid>53e6c65c-c0f2-4260-a8d5-1dd2e7d5141e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>807adde9-2070-422b-a107-6632bd7ccf1d</webElementGuid>
+      <webElementGuid>45b9b28c-038e-48e1-8d19-83fea1abe0e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/div/div/div[5]/button</value>
-      <webElementGuid>a2d1adb9-3441-42f3-b6b2-e0dc6e59b216</webElementGuid>
+      <webElementGuid>d36ff55b-bbcc-4b13-8a02-829120872179</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Screen Winner'])[1]/following::button[1]</value>
-      <webElementGuid>551284d3-aa9b-419c-9ef7-5ed799ea42a5</webElementGuid>
+      <webElementGuid>f6efe703-9210-4496-8b96-402fc53ee045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Foresight Engine'])[1]/following::button[2]</value>
-      <webElementGuid>898f5d7a-9d4b-4607-a99f-1cd27aa081b3</webElementGuid>
+      <webElementGuid>21c21962-64d4-49f2-8041-22454cdb5d3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Trends'])[1]/preceding::button[4]</value>
-      <webElementGuid>0d589bd9-0aaa-44da-8648-71a58c32080f</webElementGuid>
+      <webElementGuid>faffc261-aead-490e-9957-9691ffcbae13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='White Space Opportunity'])[1]/preceding::button[5]</value>
-      <webElementGuid>05a2af6d-b3aa-450e-8086-007816d6d108</webElementGuid>
+      <webElementGuid>9805816f-0c74-4141-a426-a6c03efbe5ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Trend Pillar']/parent::*</value>
-      <webElementGuid>0a9da684-d3da-4d2c-8bc9-b74886e65c4c</webElementGuid>
+      <webElementGuid>f6b7b5b5-1176-425b-b835-48f65c62c678</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
-      <webElementGuid>b92318dd-cd2a-46fc-9d49-d2ad584e7d08</webElementGuid>
+      <webElementGuid>b98e7478-45fd-497a-a920-e2fb03e962d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Trend Pillar' or . = 'Trend Pillar')]</value>
-      <webElementGuid>f9e3d7f8-3c5e-43dc-a554-c458cabc4607</webElementGuid>
+      <webElementGuid>94c3a7b4-501e-4ff7-ab5c-e5a75518f8f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

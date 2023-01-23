@@ -37,7 +37,7 @@ WebUI.sendKeys(findTestObject('Trend Pillar/Page_AI Palette/input__mui-24'), Key
 
 WebUI.sendKeys(findTestObject('Trend Pillar/Page_AI Palette/input__mui-24'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Trend Pillar/Page_AI Palette/button_Ingredients'))
+WebUI.click(findTestObject('Trend Pillar/Page_AI Palette/IngredientButton'))
 
 WebUI.click(findTestObject('Object Repository/Trend Pillar/Page_AI Palette/button_Proceed'))
 
@@ -55,10 +55,10 @@ WebUI.takeScreenshot('Documents/pillarIngredient.png')
 
 WebUI.delay(5)
 
-/*WebUI.setText(findTestObject('Trend Pillar/Page_AI Palette/Page_AI Palette/input__mui-18'), GlobalVariable.pillar)*/
+/*WebUI.setText(findTestObject('Trend Pillar/Page_AI Palette/Page_AI Palette/input__mui-18'), GlobalVariable.pillar, FailureHandling.CONTINUE_ON_FAILURE)*/
 WebUI.click(findTestObject('Trend Pillar/Page_AI Palette/Page_AI Palette/td_Action_MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1d3rm87'))
 
-WebUI.takeScreenshot('Documents/pillarIngredient1.png')
+/*WebUI.takeScreenshot('Documents/pillarIngredient1.png')*/
 
 WebUI.closeBrowser(FailureHandling.CONTINUE_ON_FAILURE)
 

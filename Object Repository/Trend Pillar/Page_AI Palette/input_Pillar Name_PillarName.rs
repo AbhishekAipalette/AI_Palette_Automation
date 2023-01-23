@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name = 'PillarName' and @placeholder = 'e.g. Taste' and @type = 'text' and @id = 'mui-20']</value>
+         <value>//input[@name = 'PillarName' and @placeholder = 'e.g. Taste' and @type = 'text']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>caa7c1e2-5d88-4ecb-8e5a-16b6d6238995</webElementGuid>
+      <webElementGuid>3b0fd05d-56f6-47fa-bca5-925109239f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fbb6af2f-1003-4a94-8c26-b3bf12da86fc</webElementGuid>
+      <webElementGuid>da1003be-a253-4378-8982-1081ca9d659d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>PillarName</value>
-      <webElementGuid>34d3954b-d4af-4729-bbba-f70e912a2ff5</webElementGuid>
+      <webElementGuid>68649e9e-6f03-4c89-9df0-b75cbc509083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>e.g. Taste</value>
-      <webElementGuid>d8ee9f57-d4b0-4552-b674-1f1946b44612</webElementGuid>
+      <webElementGuid>75cf818f-98fe-4366-b3f1-a3cc57b338a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c6ed4fc7-76ef-41d1-8c68-593eec07e231</webElementGuid>
+      <webElementGuid>7b2cc73c-dfae-4db1-901e-47465af13026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input css-v6iu6c</value>
-      <webElementGuid>d46df64c-79d3-4172-b316-796ecaf5ad63</webElementGuid>
+      <webElementGuid>ab3204d6-b876-4b09-8f95-a5b738b338b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mui-20</value>
-      <webElementGuid>01eb828a-7af0-4757-b19f-e639d2ddc4b4</webElementGuid>
+      <webElementGuid>49b07180-60ec-491d-a950-3efed087e45c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mui-20&quot;)</value>
-      <webElementGuid>2c3c3a61-a27c-4773-ab6d-0e6f456a248f</webElementGuid>
+      <webElementGuid>3dda75d6-adae-41f4-8f4b-813be3f45264</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mui-20']</value>
-      <webElementGuid>32856ee5-b866-4bc9-a2d2-be571a83a6b8</webElementGuid>
+      <webElementGuid>262b6d9d-e554-482b-b8a9-e8e5fe777dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='simple-tabpanel-0']/div/form/div/div/div/input</value>
-      <webElementGuid>28f69b85-b9db-479e-a528-b09ae092f2cf</webElementGuid>
+      <webElementGuid>5e329ab9-4c77-4249-a876-12e44c69290b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/input</value>
-      <webElementGuid>04c9f2df-87b8-4813-a16a-60121f1dcb95</webElementGuid>
+      <webElementGuid>45f44cb3-2e94-410d-9cb4-8b0d26733494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'PillarName' and @placeholder = 'e.g. Taste' and @type = 'text' and @id = 'mui-20']</value>
-      <webElementGuid>79a339ce-5fa3-4585-8b66-a9039d0578b1</webElementGuid>
+      <webElementGuid>7a145de9-f255-45b2-b481-f812ca85c34b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

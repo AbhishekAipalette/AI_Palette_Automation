@@ -6,12 +6,12 @@
    <elementGuidId>61e30d4d-fd9f-4b43-aa6c-d658eb77b071</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-9j2wkm</value>
+         <key>XPATH</key>
+         <value>//button[@type = 'submit' and (text() = 'Proceed' or . = 'Proceed')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-9j2wkm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>10c05c80-ea42-4d4a-b61a-79a14a012ba2</webElementGuid>
+      <webElementGuid>d1451394-a94f-4024-ad0e-c37fec6987e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-9j2wkm</value>
-      <webElementGuid>4460d409-5ff7-440c-8b12-bbcc8eaefc2b</webElementGuid>
+      <webElementGuid>ae00b34f-2f21-43df-8799-64f1e3a5b2a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7d950440-b999-485a-827e-c445565d6c7a</webElementGuid>
+      <webElementGuid>aacb4ee9-7629-41b0-88f7-3d8c860b9bb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>d8516c02-24f5-4038-ba7f-bec30f3bd971</webElementGuid>
+      <webElementGuid>16a4bdf6-0549-4e5f-a9fe-1d5be3755f87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>width</name>
       <type>Main</type>
       <value>120px !important</value>
-      <webElementGuid>1465b3c9-e38d-4af4-a240-be6f707c3def</webElementGuid>
+      <webElementGuid>b2823908-371e-4313-9674-7b48f103bb7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Proceed</value>
-      <webElementGuid>b79395ca-59a8-49e4-8f5d-64c06db87431</webElementGuid>
+      <webElementGuid>a5064a0f-8d0b-414b-ad67-6afd47ca9ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;simple-tabpanel-0&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/form[1]/div[@class=&quot;css-tw3jj0&quot;]/div[@class=&quot;css-180h8gg&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-9j2wkm&quot;]</value>
-      <webElementGuid>60343f6b-31d2-4380-b554-eea8aeb7866a</webElementGuid>
+      <webElementGuid>8085fa2b-2f1d-4ae0-beee-6610e3647a02</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>4a11752a-a75e-4b35-8051-3691716f088a</webElementGuid>
+      <webElementGuid>1016193d-c8a8-4d27-ab6b-7d60f05c8012</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='simple-tabpanel-0']/div/form/div/div[6]/button[2]</value>
-      <webElementGuid>941489e2-0f42-4bb1-89fc-c85afb2e1c7b</webElementGuid>
+      <webElementGuid>fb386520-8f45-4c73-a701-62f8d54123dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>99e57a2c-ae9e-4813-9d0c-e99f6fe4b8bf</webElementGuid>
+      <webElementGuid>73ed93b9-a19f-4361-a9ef-1839e175ff84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lens'])[1]/following::button[2]</value>
-      <webElementGuid>1514ed44-ab7a-4499-95db-f7997491cbd0</webElementGuid>
+      <webElementGuid>816e8541-4dfa-4444-a2c8-81b40d83bd52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Proceed']/parent::*</value>
-      <webElementGuid>9b8108f2-0758-4175-86b7-c27ef5cfee53</webElementGuid>
+      <webElementGuid>9a7fe980-c477-498a-acbb-02894d487ef2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/button[2]</value>
-      <webElementGuid>da422b45-fcee-44b0-9e36-9c7b0f59fe09</webElementGuid>
+      <webElementGuid>2d219160-4311-405f-a0d6-61db5fedcd24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Proceed' or . = 'Proceed')]</value>
-      <webElementGuid>11d48715-9e8d-4ec4-94f6-0bdfb720a65a</webElementGuid>
+      <webElementGuid>aaa8510c-7dcf-43cb-9baf-f28cd0ceabce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

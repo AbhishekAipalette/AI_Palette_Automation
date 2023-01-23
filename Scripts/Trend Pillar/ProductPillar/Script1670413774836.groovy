@@ -37,7 +37,7 @@ WebUI.sendKeys(findTestObject('Trend Pillar/Page_AI Palette/input__mui-24'), Key
 
 WebUI.sendKeys(findTestObject('Trend Pillar/Page_AI Palette/input__mui-24'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Trend Pillar/Page_AI Palette/button_Products'))
+WebUI.click(findTestObject('Trend Pillar/Page_AI Palette/ProductButton'))
 
 WebUI.click(findTestObject('Object Repository/Trend Pillar/Page_AI Palette/button_Proceed'))
 

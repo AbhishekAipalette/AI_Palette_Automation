@@ -6,12 +6,12 @@
    <elementGuidId>c2c899c8-7a42-46dd-aad5-353c13ca9a2d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-cij10l</value>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = ' Create new Pillar' or . = ' Create new Pillar')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[8]</value>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-cij10l</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>835a8c68-2395-4e12-a8af-25b788f3b7e4</webElementGuid>
+      <webElementGuid>fef867e8-6169-40e5-bd15-9f26f3127ba7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-cij10l</value>
-      <webElementGuid>129ad670-aa93-45ad-af13-fbad31f41b5f</webElementGuid>
+      <webElementGuid>c476332d-0e90-4461-8b71-9162e54edd44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b2920cf2-534a-42ad-b258-3ab3e75fde1f</webElementGuid>
+      <webElementGuid>377e0f56-3dc6-4f6f-a01b-fa129988947f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1e89578c-7ab1-4c3b-a3d1-e34891d5fb33</webElementGuid>
+      <webElementGuid>96e9d98b-b67a-455c-80f3-475763ee1c2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Create new Pillar</value>
-      <webElementGuid>be5d1c86-825f-46d9-a20b-a487b89c46bf</webElementGuid>
+      <webElementGuid>c84a9834-afca-429f-985e-ab1d4d76fb45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ondsk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1plpsx4&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-136jt0o&quot;]/div[@class=&quot;MuiBox-root css-xiumy&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-cij10l&quot;]</value>
-      <webElementGuid>8c81d764-c071-4c10-a646-9d39b7ccb9b2</webElementGuid>
+      <webElementGuid>b6404698-a825-4458-b916-379bc17bdb4a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>67d143ba-51fd-41e7-a312-62f9e72d078d</webElementGuid>
+      <webElementGuid>639b481f-e3d8-47e5-a9b8-7fe9dc365ae9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div[2]/div/button</value>
-      <webElementGuid>61745553-c5bf-4b05-baef-1cd1065c9c7e</webElementGuid>
+      <webElementGuid>fdd45b98-3b7a-4ae2-bd0f-d22def9ed6ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trend Pillar'])[2]/following::button[1]</value>
-      <webElementGuid>4e467838-e795-4bc3-aa4a-00f773425d50</webElementGuid>
+      <webElementGuid>8d64e7f9-3b0f-4667-ae13-5926cbef1eaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Trends'])[1]/following::button[1]</value>
-      <webElementGuid>8bffeab9-07a3-4324-a1ad-8bd6653b5b78</webElementGuid>
+      <webElementGuid>e55e864b-79bc-4c67-919f-84a12337b85a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Pillar'])[1]/preceding::button[1]</value>
-      <webElementGuid>bba91058-21fe-4f03-a77d-d55b313ac58d</webElementGuid>
+      <webElementGuid>dc17ea5a-9b03-4015-ba39-195b885c4b1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::button[2]</value>
-      <webElementGuid>f08ed27a-802e-4f2e-accb-99aadbb5b693</webElementGuid>
+      <webElementGuid>5678a7bf-e745-48ef-9f8a-f5df336eb6f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Create new Pillar']/parent::*</value>
-      <webElementGuid>d78d7898-59ee-4fcc-bbcd-2943a1f81e24</webElementGuid>
+      <webElementGuid>68b3fa6a-afe4-49fd-aaf5-667b9dc5e9ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>fd76adbd-d828-4d1a-9acb-cde23365feec</webElementGuid>
+      <webElementGuid>07a29ee7-3587-42fa-8985-5a0be986506c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Create new Pillar' or . = ' Create new Pillar')]</value>
-      <webElementGuid>d3784c79-64e9-4304-95ad-fe4a20cea985</webElementGuid>
+      <webElementGuid>53105c06-090f-4916-a574-31318f62d19b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
